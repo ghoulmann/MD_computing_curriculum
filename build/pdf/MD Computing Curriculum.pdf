@@ -1,19 +1,19 @@
 %PDF-1.4
 %ìåãû ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1+0 206 0 R
- /F2+0 210 0 R
- /F3+0 214 0 R
- /F4+0 218 0 R
- /F5+0 222 0 R >>
+<< /F1+0 217 0 R
+ /F2+0 221 0 R
+ /F3+0 225 0 R
+ /F4+0 229 0 R
+ /F5+0 233 0 R >>
 endobj
 2 0 obj
-<< /Contents 308 0 R
+<< /Contents 324 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -25,12 +25,12 @@ endobj
  /Type /Page >>
 endobj
 3 0 obj
-<< /Contents 309 0 R
+<< /Contents 325 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -42,12 +42,12 @@ endobj
  /Type /Page >>
 endobj
 4 0 obj
-<< /Contents 310 0 R
+<< /Contents 326 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -63,7 +63,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
@@ -80,7 +80,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
@@ -97,7 +97,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
@@ -114,7 +114,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
@@ -131,7 +131,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
@@ -148,7 +148,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
@@ -165,7 +165,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
@@ -182,7 +182,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
@@ -199,7 +199,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
@@ -216,7 +216,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
@@ -233,7 +233,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
@@ -250,7 +250,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
@@ -267,7 +267,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
@@ -284,7 +284,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
@@ -301,7 +301,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
@@ -318,7 +318,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
@@ -335,7 +335,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
@@ -352,7 +352,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
@@ -369,7 +369,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
@@ -386,7 +386,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
@@ -403,7 +403,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
@@ -420,7 +420,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
@@ -437,7 +437,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
@@ -454,7 +454,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
@@ -471,7 +471,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  640.3496
@@ -488,7 +488,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  640.3496
@@ -505,7 +505,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  519.9496
@@ -522,7 +522,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  519.9496
@@ -539,7 +539,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  487.1496
@@ -556,7 +556,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  487.1496
@@ -573,7 +573,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  402.7496
@@ -590,7 +590,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  402.7496
@@ -607,7 +607,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  300.3496
@@ -624,7 +624,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  300.3496
@@ -641,7 +641,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  215.9496
@@ -658,7 +658,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  215.9496
@@ -675,7 +675,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  737.1496
@@ -692,7 +692,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  737.1496
@@ -709,7 +709,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  704.3496
@@ -726,7 +726,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  704.3496
@@ -743,7 +743,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  565.9496
@@ -760,7 +760,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  565.9496
@@ -777,7 +777,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  533.1496
@@ -794,7 +794,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  533.1496
@@ -811,7 +811,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  394.7496
@@ -828,7 +828,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  394.7496
@@ -845,7 +845,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  361.9496
@@ -862,7 +862,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  361.9496
@@ -879,7 +879,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  217.5496
@@ -896,7 +896,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  217.5496
@@ -913,7 +913,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  184.7496
@@ -930,7 +930,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  184.7496
@@ -947,7 +947,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  737.1496
@@ -964,7 +964,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  737.1496
@@ -981,7 +981,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  704.3496
@@ -998,7 +998,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  704.3496
@@ -1015,7 +1015,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  601.9496
@@ -1032,7 +1032,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  601.9496
@@ -1049,7 +1049,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  547.5496
@@ -1066,7 +1066,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  547.5496
@@ -1083,7 +1083,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  514.7496
@@ -1100,7 +1100,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  514.7496
@@ -1117,7 +1117,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  364.3496
@@ -1134,7 +1134,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  364.3496
@@ -1151,7 +1151,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  255.9496
@@ -1168,7 +1168,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  255.9496
@@ -1185,7 +1185,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  159.5496
@@ -1202,7 +1202,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  159.5496
@@ -1219,7 +1219,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  737.1496
@@ -1236,7 +1236,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  737.1496
@@ -1253,7 +1253,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  640.7496
@@ -1270,7 +1270,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  640.7496
@@ -1287,7 +1287,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  532.3496
@@ -1304,7 +1304,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  532.3496
@@ -1391,12 +1391,12 @@ endobj
  76 0 R
  77 0 R
  78 0 R ]
- /Contents 311 0 R
+ /Contents 327 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1412,7 +1412,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  435.9496
@@ -1429,7 +1429,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  435.9496
@@ -1446,7 +1446,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  327.5496
@@ -1463,7 +1463,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  327.5496
@@ -1480,7 +1480,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  231.1496
@@ -1497,7 +1497,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  231.1496
@@ -1514,7 +1514,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  182.7496
@@ -1531,7 +1531,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  182.7496
@@ -1548,7 +1548,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  737.1496
@@ -1565,7 +1565,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  737.1496
@@ -1582,7 +1582,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  628.7496
@@ -1599,7 +1599,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  628.7496
@@ -1616,7 +1616,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  496.3496
@@ -1633,7 +1633,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  496.3496
@@ -1650,7 +1650,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  357.9496
@@ -1667,7 +1667,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  357.9496
@@ -1684,7 +1684,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  195.5496
@@ -1701,7 +1701,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  195.5496
@@ -1718,7 +1718,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  737.1496
@@ -1735,7 +1735,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  737.1496
@@ -1752,7 +1752,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  704.3496
@@ -1769,7 +1769,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  704.3496
@@ -1786,7 +1786,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  511.9496
@@ -1803,7 +1803,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  511.9496
@@ -1820,7 +1820,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  265.5496
@@ -1837,7 +1837,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  265.5496
@@ -1854,7 +1854,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  230.3496
@@ -1871,7 +1871,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  230.3496
@@ -1888,7 +1888,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  155.5496
@@ -1905,7 +1905,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  155.5496
@@ -1922,7 +1922,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  104.7496
@@ -1939,7 +1939,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  104.7496
@@ -1956,7 +1956,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  691.1496
@@ -1973,7 +1973,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  691.1496
@@ -1990,7 +1990,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  574.3496
@@ -2007,7 +2007,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  574.3496
@@ -2024,7 +2024,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  457.5496
@@ -2041,7 +2041,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  457.5496
@@ -2058,7 +2058,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  422.3496
@@ -2075,7 +2075,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  422.3496
@@ -2092,7 +2092,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  191.5496
@@ -2109,7 +2109,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  191.5496
@@ -2126,7 +2126,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  619.1496
@@ -2143,7 +2143,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  619.1496
@@ -2160,7 +2160,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  262.3496
@@ -2177,7 +2177,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  262.3496
@@ -2194,7 +2194,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  157.5496
@@ -2211,7 +2211,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  157.5496
@@ -2228,7 +2228,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  637.1496
@@ -2245,7 +2245,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  637.1496
@@ -2262,7 +2262,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  516.7496
@@ -2279,7 +2279,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  516.7496
@@ -2296,7 +2296,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  481.5496
@@ -2313,7 +2313,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  481.5496
@@ -2330,7 +2330,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  448.7496
@@ -2347,7 +2347,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  448.7496
@@ -2364,7 +2364,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  394.3496
@@ -2381,7 +2381,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  394.3496
@@ -2398,7 +2398,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  339.9496
@@ -2415,7 +2415,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  339.9496
@@ -2432,7 +2432,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  285.5496
@@ -2449,7 +2449,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  285.5496
@@ -2466,7 +2466,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  231.1496
@@ -2483,7 +2483,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  231.1496
@@ -2500,7 +2500,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  176.7496
@@ -2517,7 +2517,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  176.7496
@@ -2534,7 +2534,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  143.9496
@@ -2551,7 +2551,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  143.9496
@@ -2568,7 +2568,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  89.54961
@@ -2585,7 +2585,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  89.54961
@@ -2602,7 +2602,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
@@ -2619,7 +2619,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
@@ -2636,7 +2636,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  654.7496
@@ -2653,7 +2653,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  654.7496
@@ -2670,7 +2670,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
@@ -2687,7 +2687,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
@@ -2704,7 +2704,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
@@ -2721,7 +2721,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
@@ -2812,12 +2812,12 @@ endobj
  155 0 R
  156 0 R
  157 0 R ]
- /Contents 312 0 R
+ /Contents 328 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2833,7 +2833,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
@@ -2850,7 +2850,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
@@ -2867,7 +2867,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
@@ -2884,7 +2884,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
@@ -2901,7 +2901,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  404.3496
@@ -2918,7 +2918,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  404.3496
@@ -2935,7 +2935,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  347.5496
@@ -2952,7 +2952,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  347.5496
@@ -2969,14 +2969,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  288.3496
  0 ]
- /Rect [ 40.01575
+ /Rect [ 60.01575
  662.8996
- 142.9406
+ 125.7482
  674.8996 ]
  /Subtype /Link
  /Type /Annot >>
@@ -2986,12 +2986,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  288.3496
  0 ]
- /Rect [ 558.0682
+ /Rect [ 559.2596
  662.8996
  571.9843
  674.8996 ]
@@ -2999,6 +2999,176 @@ endobj
  /Type /Annot >>
 endobj
 169 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 253.1496
+ 0 ]
+ /Rect [ 80.01575
+ 644.8996
+ 175.4064
+ 656.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+170 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 253.1496
+ 0 ]
+ /Rect [ 559.2596
+ 644.8996
+ 571.9843
+ 656.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+171 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 190.3496
+ 0 ]
+ /Rect [ 80.01575
+ 626.8996
+ 143.1603
+ 638.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+172 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 190.3496
+ 0 ]
+ /Rect [ 559.2596
+ 626.8996
+ 571.9843
+ 638.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+173 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 133.5496
+ 0 ]
+ /Rect [ 80.01575
+ 608.8996
+ 188.756
+ 620.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+174 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 133.5496
+ 0 ]
+ /Rect [ 559.2596
+ 608.8996
+ 571.9843
+ 620.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+175 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Rect [ 80.01575
+ 590.8996
+ 147.8087
+ 602.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+176 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Rect [ 559.2596
+ 590.8996
+ 571.9843
+ 602.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+177 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 686.3496
+ 0 ]
+ /Rect [ 40.01575
+ 572.8996
+ 142.9406
+ 584.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+178 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 686.3496
+ 0 ]
+ /Rect [ 558.0682
+ 572.8996
+ 571.9843
+ 584.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+179 0 obj
 << /Annots [ 159 0 R
  160 0 R
  161 0 R
@@ -3008,13 +3178,23 @@ endobj
  165 0 R
  166 0 R
  167 0 R
- 168 0 R ]
- /Contents 313 0 R
+ 168 0 R
+ 169 0 R
+ 170 0 R
+ 171 0 R
+ 172 0 R
+ 173 0 R
+ 174 0 R
+ 175 0 R
+ 176 0 R
+ 177 0 R
+ 178 0 R ]
+ /Contents 329 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3025,13 +3205,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-170 0 obj
-<< /Contents 314 0 R
+180 0 obj
+<< /Contents 330 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3042,13 +3222,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-171 0 obj
-<< /Contents 315 0 R
+181 0 obj
+<< /Contents 331 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3059,13 +3239,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-172 0 obj
-<< /Contents 316 0 R
+182 0 obj
+<< /Contents 332 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3076,7 +3256,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-173 0 obj
+183 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson1.html) >>
@@ -3090,7 +3270,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-174 0 obj
+184 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson2.html) >>
@@ -3104,7 +3284,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-175 0 obj
+185 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson3.html) >>
@@ -3118,7 +3298,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-176 0 obj
+186 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson4.html) >>
@@ -3132,17 +3312,17 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-177 0 obj
-<< /Annots [ 173 0 R
- 174 0 R
- 175 0 R
- 176 0 R ]
- /Contents 317 0 R
+187 0 obj
+<< /Annots [ 183 0 R
+ 184 0 R
+ 185 0 R
+ 186 0 R ]
+ /Contents 333 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3153,7 +3333,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-178 0 obj
+188 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson5.html) >>
@@ -3167,7 +3347,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-179 0 obj
+189 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson6.html) >>
@@ -3181,7 +3361,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-180 0 obj
+190 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson7.html) >>
@@ -3195,7 +3375,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-181 0 obj
+191 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson8.html) >>
@@ -3209,7 +3389,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-182 0 obj
+192 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson9.html) >>
@@ -3223,7 +3403,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-183 0 obj
+193 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson10.html) >>
@@ -3237,7 +3417,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-184 0 obj
+194 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson11.html) >>
@@ -3251,20 +3431,20 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-185 0 obj
-<< /Annots [ 178 0 R
- 179 0 R
- 180 0 R
- 181 0 R
- 182 0 R
- 183 0 R
- 184 0 R ]
- /Contents 318 0 R
+195 0 obj
+<< /Annots [ 188 0 R
+ 189 0 R
+ 190 0 R
+ 191 0 R
+ 192 0 R
+ 193 0 R
+ 194 0 R ]
+ /Contents 334 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3275,7 +3455,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-186 0 obj
+196 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson12.html) >>
@@ -3289,7 +3469,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-187 0 obj
+197 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson13.html) >>
@@ -3303,7 +3483,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-188 0 obj
+198 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson14.html) >>
@@ -3317,7 +3497,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-189 0 obj
+199 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson15.html) >>
@@ -3331,7 +3511,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-190 0 obj
+200 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/test.html) >>
@@ -3345,18 +3525,18 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-191 0 obj
-<< /Annots [ 186 0 R
- 187 0 R
- 188 0 R
- 189 0 R
- 190 0 R ]
- /Contents 319 0 R
+201 0 obj
+<< /Annots [ 196 0 R
+ 197 0 R
+ 198 0 R
+ 199 0 R
+ 200 0 R ]
+ /Contents 335 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3367,7 +3547,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-192 0 obj
+202 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.typing-lessons.org/) >>
@@ -3381,14 +3561,14 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-193 0 obj
-<< /Annots [ 192 0 R ]
- /Contents 320 0 R
+203 0 obj
+<< /Annots [ 202 0 R ]
+ /Contents 336 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3399,7 +3579,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-194 0 obj
+204 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.sense-lang.org/typing/) >>
@@ -3413,7 +3593,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-195 0 obj
+205 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.powertyping.com/qwerty/lessonsq.html) >>
@@ -3427,7 +3607,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-196 0 obj
+206 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.freetypinggame.net/) >>
@@ -3441,7 +3621,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-197 0 obj
+207 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.powertyping.com/baracuda/baracuda.htm) >>
@@ -3455,7 +3635,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-198 0 obj
+208 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.popcap.com/gamepopup.html?theGame=typershark) >>
@@ -3469,18 +3649,18 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-199 0 obj
-<< /Annots [ 194 0 R
- 195 0 R
- 196 0 R
- 197 0 R
- 198 0 R ]
- /Contents 321 0 R
+209 0 obj
+<< /Annots [ 204 0 R
+ 205 0 R
+ 206 0 R
+ 207 0 R
+ 208 0 R ]
+ /Contents 337 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3491,13 +3671,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-200 0 obj
-<< /Contents 322 0 R
+210 0 obj
+<< /Contents 338 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3508,13 +3688,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-201 0 obj
-<< /Contents 323 0 R
+211 0 obj
+<< /Contents 339 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3525,13 +3705,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-202 0 obj
-<< /Contents 324 0 R
+212 0 obj
+<< /Contents 340 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -3542,7 +3722,24 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-203 0 obj
+213 0 obj
+<< /Contents 341 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 323 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+214 0 obj
 << /Length 1897 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -3693,7 +3890,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-204 0 obj
+215 0 obj
 << /Length 35128
  /Length1 35128 >>
 stream
@@ -4126,7 +4323,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 ˛
 @˙d˛  ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-205 0 obj
+216 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -4135,20 +4332,20 @@ endobj
  -415.0391
  1975.098
  1174.316 ]
- /FontFile2 204 0 R
+ /FontFile2 215 0 R
  /FontName /AAAAAA+DejaVuSans-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-206 0 obj
+217 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-Bold
  /FirstChar 0
- /FontDescriptor 205 0 R
+ /FontDescriptor 216 0 R
  /LastChar 127
  /Name /F1+0
  /Subtype /TrueType
- /ToUnicode 203 0 R
+ /ToUnicode 214 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -4279,7 +4476,7 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-207 0 obj
+218 0 obj
 << /Length 1909 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -4430,7 +4627,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-208 0 obj
+219 0 obj
 << /Length 24916
  /Length1 24916 >>
 stream
@@ -4645,7 +4842,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 ∏Ä@		
 ∏@¥	∏ @ñ  ∏dÖç++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-209 0 obj
+220 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -4654,20 +4851,20 @@ endobj
  -394.043
  730.957
  1051.758 ]
- /FontFile2 208 0 R
+ /FontFile2 219 0 R
  /FontName /AAAAAA+DejaVuSansMono-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-210 0 obj
+221 0 obj
 << /BaseFont /AAAAAA+DejaVuSansMono-Bold
  /FirstChar 0
- /FontDescriptor 209 0 R
+ /FontDescriptor 220 0 R
  /LastChar 127
  /Name /F2+0
  /Subtype /TrueType
- /ToUnicode 207 0 R
+ /ToUnicode 218 0 R
  /Type /Font
  /Widths [ 602.0508
  602.0508
@@ -4798,7 +4995,7 @@ endobj
  602.0508
  602.0508 ] >>
 endobj
-211 0 obj
+222 0 obj
 << /Length 1894 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -4950,7 +5147,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-212 0 obj
+223 0 obj
 << /Length 35528
  /Length1 35528 >>
 stream
@@ -5380,7 +5577,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 WW2V˛UTUBTSSRQJQ˛PO˛NMN˛ML˛KJK˛JIJIIHG˛FñEñD˛C-C˙BªAK@˛?˛>=>=<=<;<@ˇ;:˛9˛878˙767656543212˛10/0/.-	.-	,2+*%+d*)*%)('%(A'%&%&%$˛#˛"!! d˙dB˛˙BB˛d˛˛˛˛B˛-B}d˛˛˛
 	˛-˛d˛@-˛- ˛∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-213 0 obj
+224 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -5389,20 +5586,20 @@ endobj
  -415.0391
  1680.664
  1166.504 ]
- /FontFile2 212 0 R
+ /FontFile2 223 0 R
  /FontName /AAAAAA+DejaVuSans
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
-214 0 obj
+225 0 obj
 << /BaseFont /AAAAAA+DejaVuSans
  /FirstChar 0
- /FontDescriptor 213 0 R
+ /FontDescriptor 224 0 R
  /LastChar 128
  /Name /F3+0
  /Subtype /TrueType
- /ToUnicode 211 0 R
+ /ToUnicode 222 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -5534,7 +5731,7 @@ endobj
  600.0977
  589.8438 ] >>
 endobj
-215 0 obj
+226 0 obj
 << /Length 1918 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -5685,7 +5882,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-216 0 obj
+227 0 obj
 << /Length 37172
  /Length1 37172 >>
 stream
@@ -6153,7 +6350,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 
 @ ∏dÖç++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-217 0 obj
+228 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -6162,20 +6359,20 @@ endobj
  -385.2539
  1998.535
  1120.605 ]
- /FontFile2 216 0 R
+ /FontFile2 227 0 R
  /FontName /AAAAAA+DejaVuSans-BoldOblique
  /ItalicAngle -11
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-218 0 obj
+229 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-BoldOblique
  /FirstChar 0
- /FontDescriptor 217 0 R
+ /FontDescriptor 228 0 R
  /LastChar 127
  /Name /F4+0
  /Subtype /TrueType
- /ToUnicode 215 0 R
+ /ToUnicode 226 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -6306,7 +6503,7 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-219 0 obj
+230 0 obj
 << /Length 1906 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -6457,7 +6654,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-220 0 obj
+231 0 obj
 << /Length 38904
  /Length1 38904 >>
 stream
@@ -6939,7 +7136,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 
 @ ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-221 0 obj
+232 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -6948,20 +7145,20 @@ endobj
  -350.0977
  1659.18
  1067.871 ]
- /FontFile2 220 0 R
+ /FontFile2 231 0 R
  /FontName /AAAAAA+DejaVuSans-Oblique
  /ItalicAngle -11
  /StemV 87
  /Type /FontDescriptor >>
 endobj
-222 0 obj
+233 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-Oblique
  /FirstChar 0
- /FontDescriptor 221 0 R
+ /FontDescriptor 232 0 R
  /LastChar 127
  /Name /F5+0
  /Subtype /TrueType
- /ToUnicode 219 0 R
+ /ToUnicode 230 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -7092,14 +7289,14 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-223 0 obj
-<< /Outlines 225 0 R
- /PageLabels 325 0 R
+234 0 obj
+<< /Outlines 236 0 R
+ /PageLabels 342 0 R
  /PageMode /UseNone
- /Pages 307 0 R
+ /Pages 323 0 R
  /Type /Catalog >>
 endobj
-224 0 obj
+235 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -7108,944 +7305,1001 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-225 0 obj
-<< /Count 102
- /First 226 0 R
- /Last 306 0 R
+236 0 obj
+<< /Count 108
+ /First 237 0 R
+ /Last 322 0 R
  /Type /Outlines >>
 endobj
-226 0 obj
-<< /Count 79
- /Dest [ 170 0 R
+237 0 obj
+<< /Count 84
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /First 227 0 R
- /Last 305 0 R
- /Next 306 0 R
- /Parent 225 0 R
+ /First 238 0 R
+ /Last 317 0 R
+ /Next 322 0 R
+ /Parent 236 0 R
  /Title (Middle Division Computing Curriculum) >>
 endobj
-227 0 obj
+238 0 obj
 << /Count 3
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
  0 ]
- /First 228 0 R
- /Last 230 0 R
- /Next 231 0 R
- /Parent 226 0 R
+ /First 239 0 R
+ /Last 241 0 R
+ /Next 242 0 R
+ /Parent 237 0 R
  /Title (Preface) >>
 endobj
-228 0 obj
-<< /Dest [ 170 0 R
+239 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
  0 ]
- /Next 229 0 R
- /Parent 227 0 R
+ /Next 240 0 R
+ /Parent 238 0 R
  /Title (Problem) >>
 endobj
-229 0 obj
-<< /Dest [ 170 0 R
+240 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
  0 ]
- /Next 230 0 R
- /Parent 227 0 R
- /Prev 228 0 R
+ /Next 241 0 R
+ /Parent 238 0 R
+ /Prev 239 0 R
  /Title (Rationale) >>
 endobj
-230 0 obj
-<< /Dest [ 170 0 R
+241 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
  0 ]
- /Parent 227 0 R
- /Prev 229 0 R
+ /Parent 238 0 R
+ /Prev 240 0 R
  /Title (Values) >>
 endobj
-231 0 obj
+242 0 obj
 << /Count 22
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
  0 ]
- /First 232 0 R
- /Last 252 0 R
- /Next 254 0 R
- /Parent 226 0 R
- /Prev 227 0 R
+ /First 243 0 R
+ /Last 263 0 R
+ /Next 265 0 R
+ /Parent 237 0 R
+ /Prev 238 0 R
  /Title (Keyboarding Objectives) >>
 endobj
-232 0 obj
-<< /Dest [ 170 0 R
+243 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
  0 ]
- /Next 233 0 R
- /Parent 231 0 R
+ /Next 244 0 R
+ /Parent 242 0 R
  /Title (To Do) >>
 endobj
-233 0 obj
-<< /Dest [ 170 0 R
+244 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
  0 ]
- /Next 234 0 R
- /Parent 231 0 R
- /Prev 232 0 R
+ /Next 245 0 R
+ /Parent 242 0 R
+ /Prev 243 0 R
  /Title (Getting Started) >>
 endobj
-234 0 obj
+245 0 obj
 << /Count 2
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
  0 ]
- /First 235 0 R
- /Last 236 0 R
- /Next 237 0 R
- /Parent 231 0 R
- /Prev 233 0 R
+ /First 246 0 R
+ /Last 247 0 R
+ /Next 248 0 R
+ /Parent 242 0 R
+ /Prev 244 0 R
  /Title (Unit 1) >>
 endobj
-235 0 obj
-<< /Dest [ 170 0 R
+246 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
  0 ]
- /Next 236 0 R
- /Parent 234 0 R
+ /Next 247 0 R
+ /Parent 245 0 R
  /Title (Keyboarding) >>
 endobj
-236 0 obj
-<< /Dest [ 170 0 R
+247 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
  0 ]
- /Parent 234 0 R
- /Prev 235 0 R
+ /Parent 245 0 R
+ /Prev 246 0 R
  /Title (Communicating) >>
 endobj
-237 0 obj
+248 0 obj
 << /Count 1
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
  0 ]
- /First 238 0 R
- /Last 238 0 R
- /Next 239 0 R
- /Parent 231 0 R
- /Prev 234 0 R
- /Title (Unit 2) >>
-endobj
-238 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 640.3496
- 0 ]
- /Parent 237 0 R
- /Title (Keyboarding) >>
-endobj
-239 0 obj
-<< /Count 4
- /Dest [ 171 0 R
- /XYZ
- 40.01575
- 519.9496
- 0 ]
- /First 240 0 R
- /Last 243 0 R
- /Next 244 0 R
- /Parent 231 0 R
- /Prev 237 0 R
- /Title (Unit 3) >>
-endobj
-240 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 487.1496
- 0 ]
- /Next 241 0 R
- /Parent 239 0 R
- /Title (Keyboarding) >>
-endobj
-241 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 402.7496
- 0 ]
- /Next 242 0 R
- /Parent 239 0 R
- /Prev 240 0 R
- /Title (Document Design Skills) >>
-endobj
-242 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 300.3496
- 0 ]
- /Next 243 0 R
- /Parent 239 0 R
- /Prev 241 0 R
- /Title (Word Processing Skills) >>
-endobj
-243 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 215.9496
- 0 ]
- /Parent 239 0 R
- /Prev 242 0 R
- /Title (Communication Skills) >>
-endobj
-244 0 obj
-<< /Count 1
- /Dest [ 172 0 R
- /XYZ
- 40.01575
- 737.1496
- 0 ]
- /First 245 0 R
- /Last 245 0 R
- /Next 246 0 R
- /Parent 231 0 R
- /Prev 239 0 R
- /Title (Unit 4) >>
-endobj
-245 0 obj
-<< /Dest [ 172 0 R
- /XYZ
- 40.01575
- 704.3496
- 0 ]
- /Parent 244 0 R
- /Title (Keyboarding) >>
-endobj
-246 0 obj
-<< /Count 1
- /Dest [ 172 0 R
- /XYZ
- 40.01575
- 565.9496
- 0 ]
- /First 247 0 R
- /Last 247 0 R
- /Next 248 0 R
- /Parent 231 0 R
- /Prev 244 0 R
- /Title (Unit 5) >>
-endobj
-247 0 obj
-<< /Dest [ 172 0 R
- /XYZ
- 40.01575
- 533.1496
- 0 ]
- /Parent 246 0 R
- /Title (Keyboarding) >>
-endobj
-248 0 obj
-<< /Count 1
- /Dest [ 172 0 R
- /XYZ
- 40.01575
- 394.7496
- 0 ]
  /First 249 0 R
  /Last 249 0 R
  /Next 250 0 R
- /Parent 231 0 R
- /Prev 246 0 R
- /Title (Unit 6) >>
+ /Parent 242 0 R
+ /Prev 245 0 R
+ /Title (Unit 2) >>
 endobj
 249 0 obj
-<< /Dest [ 172 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 361.9496
+ 640.3496
  0 ]
  /Parent 248 0 R
  /Title (Keyboarding) >>
 endobj
 250 0 obj
-<< /Count 1
- /Dest [ 172 0 R
+<< /Count 4
+ /Dest [ 181 0 R
  /XYZ
  40.01575
- 217.5496
+ 519.9496
  0 ]
  /First 251 0 R
- /Last 251 0 R
- /Next 252 0 R
- /Parent 231 0 R
+ /Last 254 0 R
+ /Next 255 0 R
+ /Parent 242 0 R
  /Prev 248 0 R
- /Title (Unit 7) >>
+ /Title (Unit 3) >>
 endobj
 251 0 obj
-<< /Dest [ 172 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 184.7496
+ 487.1496
  0 ]
+ /Next 252 0 R
  /Parent 250 0 R
  /Title (Keyboarding) >>
 endobj
 252 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 40.01575
+ 402.7496
+ 0 ]
+ /Next 253 0 R
+ /Parent 250 0 R
+ /Prev 251 0 R
+ /Title (Document Design Skills) >>
+endobj
+253 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 40.01575
+ 300.3496
+ 0 ]
+ /Next 254 0 R
+ /Parent 250 0 R
+ /Prev 252 0 R
+ /Title (Word Processing Skills) >>
+endobj
+254 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 40.01575
+ 215.9496
+ 0 ]
+ /Parent 250 0 R
+ /Prev 253 0 R
+ /Title (Communication Skills) >>
+endobj
+255 0 obj
 << /Count 1
- /Dest [ 177 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /First 253 0 R
- /Last 253 0 R
- /Parent 231 0 R
+ /First 256 0 R
+ /Last 256 0 R
+ /Next 257 0 R
+ /Parent 242 0 R
  /Prev 250 0 R
- /Title (Unit 8) >>
+ /Title (Unit 4) >>
 endobj
-253 0 obj
-<< /Dest [ 177 0 R
+256 0 obj
+<< /Dest [ 182 0 R
  /XYZ
  40.01575
  704.3496
  0 ]
- /Parent 252 0 R
+ /Parent 255 0 R
  /Title (Keyboarding) >>
 endobj
-254 0 obj
+257 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 565.9496
+ 0 ]
+ /First 258 0 R
+ /Last 258 0 R
+ /Next 259 0 R
+ /Parent 242 0 R
+ /Prev 255 0 R
+ /Title (Unit 5) >>
+endobj
+258 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 533.1496
+ 0 ]
+ /Parent 257 0 R
+ /Title (Keyboarding) >>
+endobj
+259 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 394.7496
+ 0 ]
+ /First 260 0 R
+ /Last 260 0 R
+ /Next 261 0 R
+ /Parent 242 0 R
+ /Prev 257 0 R
+ /Title (Unit 6) >>
+endobj
+260 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 361.9496
+ 0 ]
+ /Parent 259 0 R
+ /Title (Keyboarding) >>
+endobj
+261 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 217.5496
+ 0 ]
+ /First 262 0 R
+ /Last 262 0 R
+ /Next 263 0 R
+ /Parent 242 0 R
+ /Prev 259 0 R
+ /Title (Unit 7) >>
+endobj
+262 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 184.7496
+ 0 ]
+ /Parent 261 0 R
+ /Title (Keyboarding) >>
+endobj
+263 0 obj
+<< /Count 1
+ /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /First 264 0 R
+ /Last 264 0 R
+ /Parent 242 0 R
+ /Prev 261 0 R
+ /Title (Unit 8) >>
+endobj
+264 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 704.3496
+ 0 ]
+ /Parent 263 0 R
+ /Title (Keyboarding) >>
+endobj
+265 0 obj
 << /Count 20
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  601.9496
  0 ]
- /First 255 0 R
- /Last 272 0 R
- /Next 275 0 R
- /Parent 226 0 R
- /Prev 231 0 R
+ /First 266 0 R
+ /Last 283 0 R
+ /Next 286 0 R
+ /Parent 237 0 R
+ /Prev 242 0 R
  /Title (Keyboarding Lessons: Divergent Models from Reliable Sources) >>
 endobj
-255 0 obj
+266 0 obj
 << /Count 16
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  547.5496
  0 ]
- /First 256 0 R
- /Last 271 0 R
- /Next 272 0 R
- /Parent 254 0 R
+ /First 267 0 R
+ /Last 282 0 R
+ /Next 283 0 R
+ /Parent 265 0 R
  /Title (Resource: ByteBack) >>
 endobj
-256 0 obj
-<< /Dest [ 177 0 R
+267 0 obj
+<< /Dest [ 187 0 R
  /XYZ
  40.01575
  514.7496
  0 ]
- /Next 257 0 R
- /Parent 255 0 R
+ /Next 268 0 R
+ /Parent 266 0 R
  /Title (Lesson 1: Left Hand & Home Row) >>
 endobj
-257 0 obj
-<< /Dest [ 177 0 R
+268 0 obj
+<< /Dest [ 187 0 R
  /XYZ
  40.01575
  364.3496
  0 ]
- /Next 258 0 R
- /Parent 255 0 R
- /Prev 256 0 R
+ /Next 269 0 R
+ /Parent 266 0 R
+ /Prev 267 0 R
  /Title (Lesson 2: Right Hand & Home Row) >>
 endobj
-258 0 obj
-<< /Dest [ 177 0 R
+269 0 obj
+<< /Dest [ 187 0 R
  /XYZ
  40.01575
  255.9496
  0 ]
- /Next 259 0 R
- /Parent 255 0 R
- /Prev 257 0 R
+ /Next 270 0 R
+ /Parent 266 0 R
+ /Prev 268 0 R
  /Title (Lesson 3: Both Hands, Home Row) >>
 endobj
-259 0 obj
-<< /Dest [ 177 0 R
+270 0 obj
+<< /Dest [ 187 0 R
  /XYZ
  40.01575
  159.5496
  0 ]
- /Next 260 0 R
- /Parent 255 0 R
- /Prev 258 0 R
+ /Next 271 0 R
+ /Parent 266 0 R
+ /Prev 269 0 R
  /Title (Lesson 4: Home Row with G and H) >>
 endobj
-260 0 obj
-<< /Dest [ 185 0 R
+271 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /Next 261 0 R
- /Parent 255 0 R
- /Prev 259 0 R
+ /Next 272 0 R
+ /Parent 266 0 R
+ /Prev 270 0 R
  /Title (Lesson 5: E and I) >>
 endobj
-261 0 obj
-<< /Dest [ 185 0 R
+272 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  640.7496
  0 ]
- /Next 262 0 R
- /Parent 255 0 R
- /Prev 260 0 R
+ /Next 273 0 R
+ /Parent 266 0 R
+ /Prev 271 0 R
  /Title (Lesson 6: R and U) >>
 endobj
-262 0 obj
-<< /Dest [ 185 0 R
+273 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  532.3496
  0 ]
- /Next 263 0 R
- /Parent 255 0 R
- /Prev 261 0 R
+ /Next 274 0 R
+ /Parent 266 0 R
+ /Prev 272 0 R
  /Title (Lesson 7: T and Y) >>
 endobj
-263 0 obj
-<< /Dest [ 185 0 R
+274 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  435.9496
  0 ]
- /Next 264 0 R
- /Parent 255 0 R
- /Prev 262 0 R
+ /Next 275 0 R
+ /Parent 266 0 R
+ /Prev 273 0 R
  /Title (Lesson 8: B and N) >>
 endobj
-264 0 obj
-<< /Dest [ 185 0 R
+275 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  327.5496
  0 ]
- /Next 265 0 R
- /Parent 255 0 R
- /Prev 263 0 R
+ /Next 276 0 R
+ /Parent 266 0 R
+ /Prev 274 0 R
  /Title (Lesson 9: V and M) >>
 endobj
-265 0 obj
-<< /Dest [ 185 0 R
+276 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  231.1496
  0 ]
- /Next 266 0 R
- /Parent 255 0 R
- /Prev 264 0 R
+ /Next 277 0 R
+ /Parent 266 0 R
+ /Prev 275 0 R
  /Title (Lesson 10: W and O) >>
 endobj
-266 0 obj
-<< /Dest [ 185 0 R
+277 0 obj
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
  182.7496
  0 ]
- /Next 267 0 R
- /Parent 255 0 R
- /Prev 265 0 R
+ /Next 278 0 R
+ /Parent 266 0 R
+ /Prev 276 0 R
  /Title (Lesson 11: Q and P) >>
 endobj
-267 0 obj
-<< /Dest [ 191 0 R
+278 0 obj
+<< /Dest [ 201 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /Next 268 0 R
- /Parent 255 0 R
- /Prev 266 0 R
+ /Next 279 0 R
+ /Parent 266 0 R
+ /Prev 277 0 R
  /Title (Lesson 12: C and Comma \(,\)) >>
 endobj
-268 0 obj
-<< /Dest [ 191 0 R
+279 0 obj
+<< /Dest [ 201 0 R
  /XYZ
  40.01575
  628.7496
  0 ]
- /Next 269 0 R
- /Parent 255 0 R
- /Prev 267 0 R
+ /Next 280 0 R
+ /Parent 266 0 R
+ /Prev 278 0 R
  /Title (Lesson 13: Z, X, and Period \(.\)) >>
 endobj
-269 0 obj
-<< /Dest [ 191 0 R
+280 0 obj
+<< /Dest [ 201 0 R
  /XYZ
  40.01575
  496.3496
  0 ]
- /Next 270 0 R
- /Parent 255 0 R
- /Prev 268 0 R
+ /Next 281 0 R
+ /Parent 266 0 R
+ /Prev 279 0 R
  /Title (Lesson 14: The Shift Key) >>
 endobj
-270 0 obj
-<< /Dest [ 191 0 R
+281 0 obj
+<< /Dest [ 201 0 R
  /XYZ
  40.01575
  357.9496
  0 ]
- /Next 271 0 R
- /Parent 255 0 R
- /Prev 269 0 R
+ /Next 282 0 R
+ /Parent 266 0 R
+ /Prev 280 0 R
  /Title (Lesson 15: ? and !) >>
 endobj
-271 0 obj
-<< /Dest [ 191 0 R
+282 0 obj
+<< /Dest [ 201 0 R
  /XYZ
  40.01575
  195.5496
  0 ]
- /Parent 255 0 R
- /Prev 270 0 R
+ /Parent 266 0 R
+ /Prev 281 0 R
  /Title (Final Assessment) >>
 endobj
-272 0 obj
+283 0 obj
 << /Count 2
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /First 273 0 R
- /Last 274 0 R
- /Parent 254 0 R
- /Prev 255 0 R
+ /First 284 0 R
+ /Last 285 0 R
+ /Parent 265 0 R
+ /Prev 266 0 R
  /Title (Resource: College Keyboarding) >>
 endobj
-273 0 obj
-<< /Dest [ 193 0 R
+284 0 obj
+<< /Dest [ 203 0 R
  /XYZ
  40.01575
  704.3496
  0 ]
- /Next 274 0 R
- /Parent 272 0 R
+ /Next 285 0 R
+ /Parent 283 0 R
  /Title (Module 1) >>
 endobj
-274 0 obj
-<< /Dest [ 193 0 R
+285 0 obj
+<< /Dest [ 203 0 R
  /XYZ
  40.01575
  511.9496
  0 ]
- /Parent 272 0 R
- /Prev 273 0 R
+ /Parent 283 0 R
+ /Prev 284 0 R
  /Title (Module 2) >>
 endobj
-275 0 obj
+286 0 obj
 << /Count 5
- /Dest [ 193 0 R
+ /Dest [ 203 0 R
  /XYZ
  40.01575
  265.5496
  0 ]
- /First 276 0 R
- /Last 280 0 R
- /Next 281 0 R
- /Parent 226 0 R
- /Prev 254 0 R
+ /First 287 0 R
+ /Last 291 0 R
+ /Next 292 0 R
+ /Parent 237 0 R
+ /Prev 265 0 R
  /Title (Keyboarding Enrichment Resources) >>
 endobj
-276 0 obj
-<< /Dest [ 193 0 R
+287 0 obj
+<< /Dest [ 203 0 R
  /XYZ
  40.01575
  230.3496
  0 ]
- /Next 277 0 R
- /Parent 275 0 R
+ /Next 288 0 R
+ /Parent 286 0 R
  /Title (To Do) >>
 endobj
-277 0 obj
-<< /Dest [ 193 0 R
+288 0 obj
+<< /Dest [ 203 0 R
  /XYZ
  40.01575
  155.5496
  0 ]
- /Next 278 0 R
- /Parent 275 0 R
- /Prev 276 0 R
+ /Next 289 0 R
+ /Parent 286 0 R
+ /Prev 287 0 R
  /Title (Intro) >>
 endobj
-278 0 obj
-<< /Dest [ 193 0 R
+289 0 obj
+<< /Dest [ 203 0 R
  /XYZ
  40.01575
  104.7496
  0 ]
- /Next 279 0 R
- /Parent 275 0 R
- /Prev 277 0 R
+ /Next 290 0 R
+ /Parent 286 0 R
+ /Prev 288 0 R
  /Title (Typing Lessons) >>
 endobj
-279 0 obj
-<< /Dest [ 199 0 R
+290 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  691.1496
  0 ]
- /Next 280 0 R
- /Parent 275 0 R
- /Prev 278 0 R
+ /Next 291 0 R
+ /Parent 286 0 R
+ /Prev 289 0 R
  /Title (Typing Games) >>
 endobj
-280 0 obj
-<< /Dest [ 199 0 R
+291 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  574.3496
  0 ]
- /Parent 275 0 R
- /Prev 279 0 R
+ /Parent 286 0 R
+ /Prev 290 0 R
  /Title (Typing Tests) >>
 endobj
-281 0 obj
+292 0 obj
 << /Count 6
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  457.5496
  0 ]
- /First 282 0 R
- /Last 285 0 R
- /Next 288 0 R
- /Parent 226 0 R
- /Prev 275 0 R
+ /First 293 0 R
+ /Last 296 0 R
+ /Next 299 0 R
+ /Parent 237 0 R
+ /Prev 286 0 R
  /Title (Computer Systems) >>
 endobj
-282 0 obj
-<< /Dest [ 199 0 R
+293 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  422.3496
  0 ]
- /Next 283 0 R
- /Parent 281 0 R
+ /Next 294 0 R
+ /Parent 292 0 R
  /Title (User Interface) >>
 endobj
-283 0 obj
-<< /Dest [ 199 0 R
+294 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  191.5496
  0 ]
- /Next 284 0 R
- /Parent 281 0 R
- /Prev 282 0 R
+ /Next 295 0 R
+ /Parent 292 0 R
+ /Prev 293 0 R
  /Title (File Management) >>
 endobj
-284 0 obj
-<< /Dest [ 200 0 R
+295 0 obj
+<< /Dest [ 210 0 R
  /XYZ
  40.01575
  619.1496
  0 ]
- /Next 285 0 R
- /Parent 281 0 R
- /Prev 283 0 R
+ /Next 296 0 R
+ /Parent 292 0 R
+ /Prev 294 0 R
  /Title (Fundamental Web Literacy) >>
 endobj
-285 0 obj
+296 0 obj
 << /Count 2
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  262.3496
  0 ]
- /First 286 0 R
- /Last 287 0 R
- /Parent 281 0 R
- /Prev 284 0 R
+ /First 297 0 R
+ /Last 298 0 R
+ /Parent 292 0 R
+ /Prev 295 0 R
  /Title (Computer Systems) >>
 endobj
-286 0 obj
-<< /Dest [ 200 0 R
+297 0 obj
+<< /Dest [ 210 0 R
  /XYZ
  40.01575
  157.5496
  0 ]
- /Next 287 0 R
- /Parent 285 0 R
+ /Next 298 0 R
+ /Parent 296 0 R
  /Title (Hardware) >>
 endobj
-287 0 obj
-<< /Dest [ 201 0 R
+298 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  637.1496
  0 ]
- /Parent 285 0 R
- /Prev 286 0 R
+ /Parent 296 0 R
+ /Prev 297 0 R
  /Title (Software) >>
 endobj
-288 0 obj
+299 0 obj
 << /Count 16
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  516.7496
  0 ]
- /First 289 0 R
- /Last 304 0 R
- /Next 305 0 R
- /Parent 226 0 R
- /Prev 281 0 R
+ /First 300 0 R
+ /Last 315 0 R
+ /Next 316 0 R
+ /Parent 237 0 R
+ /Prev 292 0 R
  /Title (Office Applications) >>
 endobj
-289 0 obj
+300 0 obj
 << /Count 5
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  481.5496
  0 ]
- /First 290 0 R
- /Last 294 0 R
- /Next 295 0 R
- /Parent 288 0 R
+ /First 301 0 R
+ /Last 305 0 R
+ /Next 306 0 R
+ /Parent 299 0 R
  /Title (Word Processor) >>
 endobj
-290 0 obj
-<< /Dest [ 201 0 R
+301 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  448.7496
  0 ]
- /Next 291 0 R
- /Parent 289 0 R
+ /Next 302 0 R
+ /Parent 300 0 R
  /Title (Creating Documents) >>
 endobj
-291 0 obj
-<< /Dest [ 201 0 R
+302 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  394.3496
  0 ]
- /Next 292 0 R
- /Parent 289 0 R
- /Prev 290 0 R
+ /Next 303 0 R
+ /Parent 300 0 R
+ /Prev 301 0 R
  /Title (Editing Documents) >>
 endobj
-292 0 obj
-<< /Dest [ 201 0 R
+303 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  339.9496
  0 ]
- /Next 293 0 R
- /Parent 289 0 R
- /Prev 291 0 R
+ /Next 304 0 R
+ /Parent 300 0 R
+ /Prev 302 0 R
  /Title (Formatting Text) >>
 endobj
-293 0 obj
-<< /Dest [ 201 0 R
+304 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  285.5496
  0 ]
- /Next 294 0 R
- /Parent 289 0 R
- /Prev 292 0 R
+ /Next 305 0 R
+ /Parent 300 0 R
+ /Prev 303 0 R
  /Title (Formatting Paragraphs) >>
 endobj
-294 0 obj
-<< /Dest [ 201 0 R
+305 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  231.1496
  0 ]
- /Parent 289 0 R
- /Prev 293 0 R
+ /Parent 300 0 R
+ /Prev 304 0 R
  /Title (Formatting Documents) >>
 endobj
-295 0 obj
+306 0 obj
 << /Count 3
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  176.7496
  0 ]
- /First 296 0 R
- /Last 298 0 R
- /Next 299 0 R
- /Parent 288 0 R
- /Prev 289 0 R
+ /First 307 0 R
+ /Last 309 0 R
+ /Next 310 0 R
+ /Parent 299 0 R
+ /Prev 300 0 R
  /Title (Spreadsheets) >>
 endobj
-296 0 obj
-<< /Dest [ 201 0 R
+307 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  143.9496
  0 ]
- /Next 297 0 R
- /Parent 295 0 R
+ /Next 308 0 R
+ /Parent 306 0 R
  /Title (Working with Formulas and Functions) >>
 endobj
-297 0 obj
-<< /Dest [ 201 0 R
+308 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  89.54961
  0 ]
- /Next 298 0 R
- /Parent 295 0 R
- /Prev 296 0 R
+ /Next 309 0 R
+ /Parent 306 0 R
+ /Prev 307 0 R
  /Title (Formatting a Worksheet) >>
 endobj
-298 0 obj
-<< /Dest [ 202 0 R
+309 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
  0 ]
- /Parent 295 0 R
- /Prev 297 0 R
+ /Parent 306 0 R
+ /Prev 308 0 R
  /Title (Working with Charts) >>
 endobj
-299 0 obj
+310 0 obj
 << /Count 4
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  654.7496
  0 ]
- /First 300 0 R
- /Last 303 0 R
- /Next 304 0 R
- /Parent 288 0 R
- /Prev 295 0 R
+ /First 311 0 R
+ /Last 314 0 R
+ /Next 315 0 R
+ /Parent 299 0 R
+ /Prev 306 0 R
  /Title (Presentations) >>
 endobj
-300 0 obj
-<< /Dest [ 202 0 R
+311 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
  0 ]
- /Next 301 0 R
- /Parent 299 0 R
+ /Next 312 0 R
+ /Parent 310 0 R
  /Title (Creating a Presentation) >>
 endobj
-301 0 obj
-<< /Dest [ 202 0 R
+312 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
  0 ]
- /Next 302 0 R
- /Parent 299 0 R
- /Prev 300 0 R
+ /Next 313 0 R
+ /Parent 310 0 R
+ /Prev 311 0 R
  /Title (Modifying a Presentation) >>
 endobj
-302 0 obj
-<< /Dest [ 202 0 R
+313 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
  0 ]
- /Next 303 0 R
- /Parent 299 0 R
- /Prev 301 0 R
+ /Next 314 0 R
+ /Parent 310 0 R
+ /Prev 312 0 R
  /Title (Inserting Objects into a Presentation) >>
 endobj
-303 0 obj
-<< /Dest [ 202 0 R
+314 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
  0 ]
- /Parent 299 0 R
- /Prev 302 0 R
+ /Parent 310 0 R
+ /Prev 313 0 R
  /Title (Polishing a Presentation) >>
 endobj
-304 0 obj
-<< /Dest [ 202 0 R
+315 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  404.3496
  0 ]
- /Parent 288 0 R
- /Prev 299 0 R
+ /Parent 299 0 R
+ /Prev 310 0 R
  /Title (Application Integration) >>
 endobj
-305 0 obj
-<< /Dest [ 202 0 R
+316 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  347.5496
  0 ]
- /Parent 226 0 R
- /Prev 288 0 R
+ /Next 317 0 R
+ /Parent 237 0 R
+ /Prev 299 0 R
  /Title (Programming) >>
 endobj
-306 0 obj
-<< /Dest [ 202 0 R
+317 0 obj
+<< /Count 4
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  288.3496
  0 ]
- /Parent 225 0 R
- /Prev 226 0 R
+ /First 318 0 R
+ /Last 321 0 R
+ /Parent 237 0 R
+ /Prev 316 0 R
+ /Title (Anchor Texts) >>
+endobj
+318 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 253.1496
+ 0 ]
+ /Next 319 0 R
+ /Parent 317 0 R
+ /Title (Computer Systems) >>
+endobj
+319 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 190.3496
+ 0 ]
+ /Next 320 0 R
+ /Parent 317 0 R
+ /Prev 318 0 R
+ /Title (Keyboarding) >>
+endobj
+320 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 133.5496
+ 0 ]
+ /Next 321 0 R
+ /Parent 317 0 R
+ /Prev 319 0 R
+ /Title (Software Applications) >>
+endobj
+321 0 obj
+<< /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Parent 317 0 R
+ /Prev 320 0 R
+ /Title (Programming) >>
+endobj
+322 0 obj
+<< /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 686.3496
+ 0 ]
+ /Parent 236 0 R
+ /Prev 237 0 R
  /Title (Indices and tables) >>
 endobj
-307 0 obj
-<< /Count 17
+323 0 obj
+<< /Count 18
  /Kids [ 2 0 R
  3 0 R
  4 0 R
  79 0 R
  158 0 R
- 169 0 R
- 170 0 R
- 171 0 R
- 172 0 R
- 177 0 R
- 185 0 R
- 191 0 R
- 193 0 R
- 199 0 R
- 200 0 R
+ 179 0 R
+ 180 0 R
+ 181 0 R
+ 182 0 R
+ 187 0 R
+ 195 0 R
  201 0 R
- 202 0 R ]
+ 203 0 R
+ 209 0 R
+ 210 0 R
+ 211 0 R
+ 212 0 R
+ 213 0 R ]
  /Type /Pages >>
 endobj
-308 0 obj
+324 0 obj
 << /Length 937 >>
 stream
 1 0 0 1 0 0 cm 
@@ -8104,7 +8358,7 @@ Q
  
 endstream
 endobj
-309 0 obj
+325 0 obj
 << /Length 56 >>
 stream
 1 0 0 1 0 0 cm 
@@ -8114,14 +8368,14 @@ Q
  
 endstream
 endobj
-310 0 obj
+326 0 obj
 << /Length 20 >>
 stream
 1 0 0 1 0 0 cm 
  
 endstream
 endobj
-311 0 obj
+327 0 obj
 << /Length 9976 >>
 stream
 1 0 0 1 0 0 cm 
@@ -8664,7 +8918,7 @@ Q
  
 endstream
 endobj
-312 0 obj
+328 0 obj
 << /Length 10445 >>
 stream
 1 0 0 1 0 0 cm 
@@ -9227,17 +9481,89 @@ Q
  
 endstream
 endobj
-313 0 obj
-<< /Length 1458 >>
+329 0 obj
+<< /Length 2810 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 40.01575 659.1496 cm
+1 0 0 1 40.01575 569.1496 cm
 0 0 0 rg
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Inserting Objects into a Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Polishing a Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Application Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Anchor Texts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Inserting Objects into a Presentation) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Computer Systems) Tj T* ET
 Q
 Q
 q
@@ -9251,7 +9577,9 @@ Q
 q
 1 0 0 1 0 57 cm
 q
-BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Polishing a Presentation) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Keyboarding) Tj T* ET
 Q
 Q
 q
@@ -9265,7 +9593,7 @@ Q
 q
 1 0 0 1 0 39 cm
 q
-BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Application Integration) Tj T* ET
+BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Software Applications) Tj T* ET
 Q
 Q
 q
@@ -9279,7 +9607,9 @@ Q
 q
 1 0 0 1 0 21 cm
 q
-BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Programming) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Programming) Tj T* ET
 Q
 Q
 q
@@ -9287,7 +9617,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (12) Tj T* -59.27539 0 Td ET
 Q
 Q
 q
@@ -9301,19 +9631,19 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm 58.08398 0 Td /F1+0 10 Tf 12 TL (11) Tj T* -58.08398 0 Td ET
+BT 1 0 0 1 0 2 Tm 58.08398 0 Td /F1+0 10 Tf 12 TL (12) Tj T* -58.08398 0 Td ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 659.1496 cm
+1 0 0 1 40.01575 569.1496 cm
 Q
  
 endstream
 endobj
-314 0 obj
+330 0 obj
 << /Length 7836 >>
 stream
 1 0 0 1 0 0 cm 
@@ -9811,7 +10141,7 @@ Q
  
 endstream
 endobj
-315 0 obj
+331 0 obj
 << /Length 9011 >>
 stream
 1 0 0 1 0 0 cm 
@@ -10395,7 +10725,7 @@ Q
  
 endstream
 endobj
-316 0 obj
+332 0 obj
 << /Length 9395 >>
 stream
 1 0 0 1 0 0 cm 
@@ -11017,7 +11347,7 @@ Q
  
 endstream
 endobj
-317 0 obj
+333 0 obj
 << /Length 6722 >>
 stream
 1 0 0 1 0 0 cm 
@@ -11303,7 +11633,7 @@ Q
  
 endstream
 endobj
-318 0 obj
+334 0 obj
 << /Length 5943 >>
 stream
 1 0 0 1 0 0 cm 
@@ -11534,7 +11864,7 @@ Q
  
 endstream
 endobj
-319 0 obj
+335 0 obj
 << /Length 6258 >>
 stream
 1 0 0 1 0 0 cm 
@@ -11729,7 +12059,7 @@ Q
  
 endstream
 endobj
-320 0 obj
+336 0 obj
 << /Length 9598 >>
 stream
 1 0 0 1 0 0 cm 
@@ -12385,7 +12715,7 @@ Q
  
 endstream
 endobj
-321 0 obj
+337 0 obj
 << /Length 10397 >>
 stream
 1 0 0 1 0 0 cm 
@@ -13035,7 +13365,7 @@ Q
  
 endstream
 endobj
-322 0 obj
+338 0 obj
 << /Length 11448 >>
 stream
 1 0 0 1 0 0 cm 
@@ -13814,7 +14144,7 @@ Q
  
 endstream
 endobj
-323 0 obj
+339 0 obj
 << /Length 8275 >>
 stream
 1 0 0 1 0 0 cm 
@@ -14367,8 +14697,8 @@ Q
  
 endstream
 endobj
-324 0 obj
-<< /Length 6299 >>
+340 0 obj
+<< /Length 6860 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -14694,7 +15024,139 @@ q
 1 0 0 1 40.01575 304.3496 cm
 Q
 q
-1 0 0 1 40.01575 264.3496 cm
+1 0 0 1 40.01575 269.1496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL .12549 .262745 .360784 rg /F1+0 16 Tf 19.2 TL (Anchor Texts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 236.3496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Computer Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 206.3496 cm
+q
+BT 1 0 0 1 0 14 Tm 2.40241 Tw 12 TL 0 0 0 rg /F5+0 10 Tf 12 TL (Microsoft Office 2010 Illustrated Intoductory First Course) Tj /F3+0 10 Tf 12 TL (. Beskeen, Cram, Duffy, Friedrichsen. Eisner) Tj T* 0 Tw (Redding, 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 173.5496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Keyboarding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 161.5496 cm
+Q
+q
+1 0 0 1 40.01575 161.5496 cm
+Q
+q
+1 0 0 1 40.01575 149.5496 cm
+0 0 0 rg
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 8.101562 0 Td /F3+0 10 Tf 12 TL (\200) Tj T* -8.101562 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Placeholder) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 149.5496 cm
+Q
+q
+1 0 0 1 40.01575 116.7496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL .12549 .262745 .360784 rg /F4+0 14 Tf 16.8 TL (Software Applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 86.74961 cm
+q
+BT 1 0 0 1 0 14 Tm 2.40241 Tw 12 TL 0 0 0 rg /F5+0 10 Tf 12 TL (Microsoft Office 2010 Illustrated Intoductory First Course) Tj /F3+0 10 Tf 12 TL (. Beskeen, Cram, Duffy, Friedrichsen. Eisner) Tj T* 0 Tw (Redding, 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 757.3228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Working with Charts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+341 0 obj
+<< /Length 1814 >>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 40.01575 720.3496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 702.3496 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5+0 10 Tf 12 TL (Super Scratch Adventures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 662.3496 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14706,13 +15168,13 @@ BT 1 0 0 1 0 4 Tm 24 TL .12549 .262745 .360784 rg /F1+0 20 Tf 24 TL (Indices and
 Q
 Q
 q
-1 0 0 1 40.01575 252.3496 cm
+1 0 0 1 40.01575 650.3496 cm
 Q
 q
-1 0 0 1 40.01575 252.3496 cm
+1 0 0 1 40.01575 650.3496 cm
 Q
 q
-1 0 0 1 40.01575 240.3496 cm
+1 0 0 1 40.01575 638.3496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -14732,10 +15194,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 234.3496 cm
+1 0 0 1 40.01575 632.3496 cm
 Q
 q
-1 0 0 1 40.01575 222.3496 cm
+1 0 0 1 40.01575 620.3496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -14755,10 +15217,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 216.3496 cm
+1 0 0 1 40.01575 614.3496 cm
 Q
 q
-1 0 0 1 40.01575 204.3496 cm
+1 0 0 1 40.01575 602.3496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -14778,134 +15240,140 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 204.3496 cm
+1 0 0 1 40.01575 602.3496 cm
 Q
 q
-1 0 0 1 40.01575 204.3496 cm
+1 0 0 1 40.01575 602.3496 cm
 Q
 q
 1 0 0 1 34.01575 757.3228 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Working with Charts) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Programming) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (12) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-325 0 obj
+342 0 obj
 << /Nums [ 0
- 326 0 R
+ 343 0 R
  1
- 327 0 R
+ 344 0 R
  2
- 328 0 R
+ 345 0 R
  3
- 329 0 R
+ 346 0 R
  4
- 330 0 R
+ 347 0 R
  5
- 331 0 R
+ 348 0 R
  6
- 332 0 R
+ 349 0 R
  7
- 333 0 R
+ 350 0 R
  8
- 334 0 R
+ 351 0 R
  9
- 335 0 R
+ 352 0 R
  10
- 336 0 R
+ 353 0 R
  11
- 337 0 R
+ 354 0 R
  12
- 338 0 R
+ 355 0 R
  13
- 339 0 R
+ 356 0 R
  14
- 340 0 R
+ 357 0 R
  15
- 341 0 R
+ 358 0 R
  16
- 342 0 R ] >>
+ 359 0 R
+ 17
+ 360 0 R ] >>
 endobj
-326 0 obj
+343 0 obj
 << /S /D
  /St 1 >>
 endobj
-327 0 obj
+344 0 obj
 << /S /D
  /St 2 >>
 endobj
-328 0 obj
+345 0 obj
 << /S /r
  /St 1 >>
 endobj
-329 0 obj
+346 0 obj
 << /S /r
  /St 2 >>
 endobj
-330 0 obj
+347 0 obj
 << /S /r
  /St 3 >>
 endobj
-331 0 obj
+348 0 obj
 << /S /r
  /St 4 >>
 endobj
-332 0 obj
+349 0 obj
 << /S /D
  /St 1 >>
 endobj
-333 0 obj
+350 0 obj
 << /S /D
  /St 2 >>
 endobj
-334 0 obj
+351 0 obj
 << /S /D
  /St 3 >>
 endobj
-335 0 obj
+352 0 obj
 << /S /D
  /St 4 >>
 endobj
-336 0 obj
+353 0 obj
 << /S /D
  /St 5 >>
 endobj
-337 0 obj
+354 0 obj
 << /S /D
  /St 6 >>
 endobj
-338 0 obj
+355 0 obj
 << /S /D
  /St 7 >>
 endobj
-339 0 obj
+356 0 obj
 << /S /D
  /St 8 >>
 endobj
-340 0 obj
+357 0 obj
 << /S /D
  /St 9 >>
 endobj
-341 0 obj
+358 0 obj
 << /S /D
  /St 10 >>
 endobj
-342 0 obj
+359 0 obj
 << /S /D
  /St 11 >>
 endobj
+360 0 obj
+<< /S /D
+ /St 12 >>
+endobj
 xref
-0 343
+0 361
 0000000000 65535 f
 0000000075 00000 n
 0000000177 00000 n
@@ -15076,206 +15544,224 @@ xref
 0000034964 00000 n
 0000035166 00000 n
 0000035368 00000 n
-0000035707 00000 n
-0000035934 00000 n
-0000036161 00000 n
-0000036388 00000 n
-0000036618 00000 n
-0000036848 00000 n
-0000037078 00000 n
-0000037308 00000 n
-0000037587 00000 n
-0000037817 00000 n
-0000038047 00000 n
-0000038277 00000 n
+0000035570 00000 n
+0000035772 00000 n
+0000035974 00000 n
+0000036176 00000 n
+0000036377 00000 n
+0000036579 00000 n
+0000036781 00000 n
+0000036983 00000 n
+0000037185 00000 n
+0000037387 00000 n
+0000037826 00000 n
+0000038053 00000 n
+0000038280 00000 n
 0000038507 00000 n
 0000038737 00000 n
-0000038968 00000 n
-0000039199 00000 n
-0000039508 00000 n
-0000039739 00000 n
-0000039970 00000 n
-0000040201 00000 n
-0000040432 00000 n
-0000040659 00000 n
-0000040948 00000 n
-0000041157 00000 n
-0000041406 00000 n
-0000041618 00000 n
-0000041844 00000 n
-0000042053 00000 n
-0000042280 00000 n
-0000042513 00000 n
-0000042802 00000 n
-0000043029 00000 n
-0000043256 00000 n
-0000043483 00000 n
-0000045438 00000 n
-0000080642 00000 n
-0000080915 00000 n
-0000082506 00000 n
-0000084473 00000 n
-0000109465 00000 n
-0000109740 00000 n
-0000111351 00000 n
-0000113303 00000 n
-0000148907 00000 n
-0000149169 00000 n
-0000150756 00000 n
-0000152732 00000 n
-0000189980 00000 n
-0000190262 00000 n
-0000191860 00000 n
-0000193824 00000 n
-0000232804 00000 n
-0000233076 00000 n
-0000234660 00000 n
-0000234781 00000 n
-0000235001 00000 n
-0000235089 00000 n
-0000235293 00000 n
-0000235467 00000 n
-0000235597 00000 n
-0000235745 00000 n
-0000235874 00000 n
-0000236080 00000 n
-0000236208 00000 n
-0000236362 00000 n
-0000236551 00000 n
-0000236685 00000 n
-0000236821 00000 n
-0000237010 00000 n
-0000237128 00000 n
-0000237317 00000 n
-0000237451 00000 n
-0000237612 00000 n
-0000237773 00000 n
-0000237916 00000 n
-0000238105 00000 n
-0000238223 00000 n
-0000238412 00000 n
-0000238530 00000 n
-0000238719 00000 n
-0000238837 00000 n
-0000239026 00000 n
-0000239144 00000 n
-0000239317 00000 n
-0000239435 00000 n
-0000239678 00000 n
-0000239864 00000 n
-0000240017 00000 n
-0000240187 00000 n
-0000240356 00000 n
-0000240526 00000 n
-0000240682 00000 n
-0000240838 00000 n
-0000240994 00000 n
-0000241150 00000 n
-0000241306 00000 n
-0000241463 00000 n
-0000241620 00000 n
-0000241787 00000 n
-0000241959 00000 n
-0000242122 00000 n
-0000242279 00000 n
-0000242418 00000 n
-0000242614 00000 n
-0000242745 00000 n
-0000242876 00000 n
-0000243091 00000 n
-0000243219 00000 n
-0000243363 00000 n
-0000243516 00000 n
-0000243667 00000 n
-0000243802 00000 n
-0000244001 00000 n
-0000244138 00000 n
-0000244292 00000 n
-0000244455 00000 n
-0000244638 00000 n
-0000244769 00000 n
-0000244900 00000 n
-0000245103 00000 n
-0000245284 00000 n
-0000245425 00000 n
-0000245581 00000 n
-0000245735 00000 n
-0000245895 00000 n
-0000246038 00000 n
-0000246233 00000 n
-0000246391 00000 n
-0000246552 00000 n
-0000246694 00000 n
-0000246890 00000 n
-0000247036 00000 n
-0000247199 00000 n
-0000247375 00000 n
-0000247522 00000 n
-0000247668 00000 n
-0000247802 00000 n
-0000247943 00000 n
-0000248167 00000 n
-0000249161 00000 n
-0000249273 00000 n
-0000249349 00000 n
-0000259383 00000 n
-0000269887 00000 n
-0000271403 00000 n
-0000279297 00000 n
-0000288366 00000 n
-0000297819 00000 n
-0000304599 00000 n
-0000310600 00000 n
-0000316916 00000 n
-0000326572 00000 n
-0000337028 00000 n
-0000348535 00000 n
-0000356868 00000 n
-0000363225 00000 n
-0000363504 00000 n
-0000363544 00000 n
-0000363584 00000 n
-0000363624 00000 n
-0000363664 00000 n
-0000363704 00000 n
-0000363744 00000 n
-0000363784 00000 n
-0000363824 00000 n
-0000363864 00000 n
-0000363904 00000 n
-0000363944 00000 n
-0000363984 00000 n
-0000364024 00000 n
-0000364064 00000 n
-0000364104 00000 n
-0000364145 00000 n
+0000038967 00000 n
+0000039197 00000 n
+0000039427 00000 n
+0000039706 00000 n
+0000039936 00000 n
+0000040166 00000 n
+0000040396 00000 n
+0000040626 00000 n
+0000040856 00000 n
+0000041087 00000 n
+0000041318 00000 n
+0000041627 00000 n
+0000041858 00000 n
+0000042089 00000 n
+0000042320 00000 n
+0000042551 00000 n
+0000042778 00000 n
+0000043067 00000 n
+0000043276 00000 n
+0000043525 00000 n
+0000043737 00000 n
+0000043963 00000 n
+0000044172 00000 n
+0000044399 00000 n
+0000044632 00000 n
+0000044921 00000 n
+0000045148 00000 n
+0000045375 00000 n
+0000045602 00000 n
+0000045829 00000 n
+0000047784 00000 n
+0000082988 00000 n
+0000083261 00000 n
+0000084852 00000 n
+0000086819 00000 n
+0000111811 00000 n
+0000112086 00000 n
+0000113697 00000 n
+0000115649 00000 n
+0000151253 00000 n
+0000151515 00000 n
+0000153102 00000 n
+0000155078 00000 n
+0000192326 00000 n
+0000192608 00000 n
+0000194206 00000 n
+0000196170 00000 n
+0000235150 00000 n
+0000235422 00000 n
+0000237006 00000 n
+0000237127 00000 n
+0000237347 00000 n
+0000237435 00000 n
+0000237639 00000 n
+0000237813 00000 n
+0000237943 00000 n
+0000238091 00000 n
+0000238220 00000 n
+0000238426 00000 n
+0000238554 00000 n
+0000238708 00000 n
+0000238897 00000 n
+0000239031 00000 n
+0000239167 00000 n
+0000239356 00000 n
+0000239474 00000 n
+0000239663 00000 n
+0000239797 00000 n
+0000239958 00000 n
+0000240119 00000 n
+0000240262 00000 n
+0000240451 00000 n
+0000240569 00000 n
+0000240758 00000 n
+0000240876 00000 n
+0000241065 00000 n
+0000241183 00000 n
+0000241372 00000 n
+0000241490 00000 n
+0000241663 00000 n
+0000241781 00000 n
+0000242024 00000 n
+0000242210 00000 n
+0000242363 00000 n
+0000242533 00000 n
+0000242702 00000 n
+0000242872 00000 n
+0000243028 00000 n
+0000243184 00000 n
+0000243340 00000 n
+0000243496 00000 n
+0000243652 00000 n
+0000243809 00000 n
+0000243966 00000 n
+0000244133 00000 n
+0000244305 00000 n
+0000244468 00000 n
+0000244625 00000 n
+0000244764 00000 n
+0000244960 00000 n
+0000245091 00000 n
+0000245222 00000 n
+0000245437 00000 n
+0000245565 00000 n
+0000245709 00000 n
+0000245862 00000 n
+0000246013 00000 n
+0000246148 00000 n
+0000246347 00000 n
+0000246484 00000 n
+0000246638 00000 n
+0000246801 00000 n
+0000246984 00000 n
+0000247115 00000 n
+0000247246 00000 n
+0000247449 00000 n
+0000247630 00000 n
+0000247771 00000 n
+0000247927 00000 n
+0000248081 00000 n
+0000248241 00000 n
+0000248384 00000 n
+0000248579 00000 n
+0000248737 00000 n
+0000248898 00000 n
+0000249040 00000 n
+0000249236 00000 n
+0000249382 00000 n
+0000249545 00000 n
+0000249721 00000 n
+0000249868 00000 n
+0000250014 00000 n
+0000250164 00000 n
+0000250343 00000 n
+0000250482 00000 n
+0000250632 00000 n
+0000250792 00000 n
+0000250926 00000 n
+0000251067 00000 n
+0000251301 00000 n
+0000252295 00000 n
+0000252407 00000 n
+0000252483 00000 n
+0000262517 00000 n
+0000273021 00000 n
+0000275889 00000 n
+0000283783 00000 n
+0000292852 00000 n
+0000302305 00000 n
+0000309085 00000 n
+0000315086 00000 n
+0000321402 00000 n
+0000331058 00000 n
+0000341514 00000 n
+0000353021 00000 n
+0000361354 00000 n
+0000368272 00000 n
+0000370144 00000 n
+0000370438 00000 n
+0000370478 00000 n
+0000370518 00000 n
+0000370558 00000 n
+0000370598 00000 n
+0000370638 00000 n
+0000370678 00000 n
+0000370718 00000 n
+0000370758 00000 n
+0000370798 00000 n
+0000370838 00000 n
+0000370878 00000 n
+0000370918 00000 n
+0000370958 00000 n
+0000370998 00000 n
+0000371038 00000 n
+0000371079 00000 n
+0000371120 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 224 0 R
- /Root 223 0 R
- /Size 343 >>
+ /Info 235 0 R
+ /Root 234 0 R
+ /Size 361 >>
 startxref
-364186
+371161
 %%EOF
 %PDF-1.4
 %ìåãû ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1+0 206 0 R
- /F2+0 210 0 R
- /F3+0 214 0 R
- /F4+0 218 0 R
- /F5+0 222 0 R >>
+<< /F1+0 217 0 R
+ /F2+0 221 0 R
+ /F3+0 225 0 R
+ /F4+0 229 0 R
+ /F5+0 233 0 R >>
 endobj
 2 0 obj
-<< /Contents 308 0 R
+<< /Contents 324 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -15287,12 +15773,12 @@ endobj
  /Type /Page >>
 endobj
 3 0 obj
-<< /Contents 309 0 R
+<< /Contents 325 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -15308,7 +15794,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
@@ -15325,7 +15811,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
@@ -15342,7 +15828,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
@@ -15359,7 +15845,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
@@ -15376,7 +15862,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
@@ -15393,7 +15879,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
@@ -15410,7 +15896,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
@@ -15427,7 +15913,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
@@ -15444,7 +15930,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
@@ -15461,7 +15947,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
@@ -15478,7 +15964,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
@@ -15495,7 +15981,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
@@ -15512,7 +15998,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
@@ -15529,7 +16015,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
@@ -15546,7 +16032,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
@@ -15563,7 +16049,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
@@ -15580,7 +16066,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
@@ -15597,7 +16083,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
@@ -15614,7 +16100,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
@@ -15631,7 +16117,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
@@ -15648,7 +16134,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
@@ -15665,7 +16151,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
@@ -15682,7 +16168,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
@@ -15699,7 +16185,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
@@ -15716,7 +16202,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  640.3496
@@ -15733,7 +16219,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  640.3496
@@ -15750,7 +16236,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  519.9496
@@ -15767,7 +16253,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  519.9496
@@ -15784,7 +16270,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  487.1496
@@ -15801,7 +16287,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  487.1496
@@ -15818,7 +16304,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  402.7496
@@ -15835,7 +16321,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  402.7496
@@ -15852,7 +16338,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  300.3496
@@ -15869,7 +16355,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  300.3496
@@ -15886,7 +16372,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  215.9496
@@ -15903,7 +16389,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  215.9496
@@ -15920,7 +16406,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  95.54961
@@ -15937,7 +16423,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  95.54961
@@ -15954,7 +16440,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  737.1496
@@ -15971,7 +16457,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  737.1496
@@ -15988,7 +16474,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  598.7496
@@ -16005,7 +16491,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  598.7496
@@ -16022,7 +16508,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  565.9496
@@ -16039,7 +16525,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  565.9496
@@ -16056,7 +16542,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  427.5496
@@ -16073,7 +16559,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  427.5496
@@ -16090,7 +16576,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  394.7496
@@ -16107,7 +16593,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  394.7496
@@ -16124,7 +16610,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  250.3496
@@ -16141,7 +16627,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  250.3496
@@ -16158,7 +16644,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  217.5496
@@ -16175,7 +16661,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  217.5496
@@ -16192,7 +16678,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  97.14961
@@ -16209,7 +16695,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 172 0 R
+ /Dest [ 182 0 R
  /XYZ
  40.01575
  97.14961
@@ -16226,7 +16712,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  737.1496
@@ -16243,7 +16729,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  737.1496
@@ -16260,7 +16746,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  634.7496
@@ -16277,7 +16763,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  634.7496
@@ -16294,7 +16780,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  580.3496
@@ -16311,7 +16797,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  580.3496
@@ -16328,7 +16814,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  547.5496
@@ -16345,7 +16831,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  547.5496
@@ -16362,7 +16848,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  397.1496
@@ -16379,7 +16865,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  397.1496
@@ -16396,7 +16882,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  288.7496
@@ -16413,7 +16899,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  288.7496
@@ -16430,7 +16916,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  192.3496
@@ -16447,7 +16933,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  192.3496
@@ -16464,7 +16950,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  71.94961
@@ -16481,7 +16967,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 177 0 R
+ /Dest [ 187 0 R
  /XYZ
  40.01575
  71.94961
@@ -16498,7 +16984,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  661.1496
@@ -16515,7 +17001,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  661.1496
@@ -16532,7 +17018,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  552.7496
@@ -16549,7 +17035,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  552.7496
@@ -16636,12 +17122,12 @@ endobj
  75 0 R
  76 0 R
  77 0 R ]
- /Contents 310 0 R
+ /Contents 326 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -16657,7 +17143,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  456.3496
@@ -16674,7 +17160,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  456.3496
@@ -16691,7 +17177,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  347.9496
@@ -16708,7 +17194,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  347.9496
@@ -16725,7 +17211,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  251.5496
@@ -16742,7 +17228,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  251.5496
@@ -16759,7 +17245,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  203.1496
@@ -16776,7 +17262,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  203.1496
@@ -16793,7 +17279,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  94.74961
@@ -16810,7 +17296,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 185 0 R
+ /Dest [ 195 0 R
  /XYZ
  40.01575
  94.74961
@@ -16827,7 +17313,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  649.1496
@@ -16844,7 +17330,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  649.1496
@@ -16861,7 +17347,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  516.7496
@@ -16878,7 +17364,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  516.7496
@@ -16895,7 +17381,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  378.3496
@@ -16912,7 +17398,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  378.3496
@@ -16929,7 +17415,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  215.9496
@@ -16946,7 +17432,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  215.9496
@@ -16963,7 +17449,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  95.54961
@@ -16980,7 +17466,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 191 0 R
+ /Dest [ 201 0 R
  /XYZ
  40.01575
  95.54961
@@ -16997,7 +17483,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  737.1496
@@ -17014,7 +17500,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  737.1496
@@ -17031,7 +17517,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  544.7496
@@ -17048,7 +17534,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  544.7496
@@ -17065,7 +17551,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  298.3496
@@ -17082,7 +17568,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  298.3496
@@ -17099,7 +17585,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  263.1496
@@ -17116,7 +17602,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  263.1496
@@ -17133,7 +17619,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  188.3496
@@ -17150,7 +17636,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  188.3496
@@ -17167,7 +17653,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  137.5496
@@ -17184,7 +17670,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 195 0 R
+ /Dest [ 205 0 R
  /XYZ
  40.01575
  137.5496
@@ -17201,7 +17687,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  737.1496
@@ -17218,7 +17704,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  737.1496
@@ -17235,7 +17721,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  620.3496
@@ -17252,7 +17738,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  620.3496
@@ -17269,7 +17755,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  503.5496
@@ -17286,7 +17772,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  503.5496
@@ -17303,7 +17789,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  468.3496
@@ -17320,7 +17806,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  468.3496
@@ -17337,7 +17823,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  237.5496
@@ -17354,7 +17840,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  237.5496
@@ -17371,7 +17857,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  673.1496
@@ -17388,7 +17874,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  673.1496
@@ -17405,7 +17891,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  316.3496
@@ -17422,7 +17908,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  316.3496
@@ -17439,7 +17925,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  211.5496
@@ -17456,7 +17942,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  211.5496
@@ -17473,7 +17959,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  691.1496
@@ -17490,7 +17976,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  691.1496
@@ -17507,7 +17993,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  570.7496
@@ -17524,7 +18010,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  570.7496
@@ -17541,7 +18027,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  535.5496
@@ -17558,7 +18044,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  535.5496
@@ -17575,7 +18061,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  502.7496
@@ -17592,7 +18078,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  502.7496
@@ -17609,7 +18095,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  448.3496
@@ -17626,7 +18112,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  448.3496
@@ -17643,7 +18129,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  393.9496
@@ -17660,7 +18146,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  393.9496
@@ -17677,7 +18163,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  339.5496
@@ -17694,7 +18180,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  339.5496
@@ -17711,7 +18197,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  285.1496
@@ -17728,7 +18214,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  285.1496
@@ -17745,7 +18231,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  230.7496
@@ -17762,7 +18248,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  230.7496
@@ -17779,7 +18265,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  197.9496
@@ -17796,7 +18282,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  197.9496
@@ -17813,7 +18299,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  143.5496
@@ -17830,7 +18316,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  143.5496
@@ -17847,7 +18333,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  89.14961
@@ -17864,7 +18350,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  89.14961
@@ -17881,7 +18367,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
@@ -17898,7 +18384,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
@@ -17915,7 +18401,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  676.3496
@@ -17932,7 +18418,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  676.3496
@@ -17949,7 +18435,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
@@ -17966,7 +18452,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
@@ -18057,12 +18543,12 @@ endobj
  154 0 R
  155 0 R
  156 0 R ]
- /Contents 311 0 R
+ /Contents 327 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18078,7 +18564,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
@@ -18095,7 +18581,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
@@ -18112,7 +18598,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
@@ -18129,7 +18615,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
@@ -18146,7 +18632,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
@@ -18163,7 +18649,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
@@ -18180,7 +18666,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  401.9496
@@ -18197,7 +18683,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  401.9496
@@ -18214,14 +18700,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  342.7496
  0 ]
- /Rect [ 40.01575
+ /Rect [ 60.01575
  662.8996
- 142.9406
+ 125.7482
  674.8996 ]
  /Subtype /Link
  /Type /Annot >>
@@ -18231,12 +18717,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  342.7496
  0 ]
- /Rect [ 558.0682
+ /Rect [ 559.2596
  662.8996
  571.9843
  674.8996 ]
@@ -18244,6 +18730,176 @@ endobj
  /Type /Annot >>
 endobj
 168 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 307.5496
+ 0 ]
+ /Rect [ 80.01575
+ 644.8996
+ 175.4064
+ 656.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+169 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 307.5496
+ 0 ]
+ /Rect [ 559.2596
+ 644.8996
+ 571.9843
+ 656.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+170 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 244.7496
+ 0 ]
+ /Rect [ 80.01575
+ 626.8996
+ 143.1603
+ 638.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+171 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 244.7496
+ 0 ]
+ /Rect [ 559.2596
+ 626.8996
+ 571.9843
+ 638.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+172 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 187.9496
+ 0 ]
+ /Rect [ 80.01575
+ 608.8996
+ 188.756
+ 620.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+173 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 187.9496
+ 0 ]
+ /Rect [ 559.2596
+ 608.8996
+ 571.9843
+ 620.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+174 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 125.1496
+ 0 ]
+ /Rect [ 80.01575
+ 590.8996
+ 147.8087
+ 602.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+175 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 125.1496
+ 0 ]
+ /Rect [ 559.2596
+ 590.8996
+ 571.9843
+ 602.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+176 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Rect [ 40.01575
+ 572.8996
+ 142.9406
+ 584.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+177 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Rect [ 558.0682
+ 572.8996
+ 571.9843
+ 584.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+178 0 obj
 << /Annots [ 158 0 R
  159 0 R
  160 0 R
@@ -18253,13 +18909,23 @@ endobj
  164 0 R
  165 0 R
  166 0 R
- 167 0 R ]
- /Contents 312 0 R
+ 167 0 R
+ 168 0 R
+ 169 0 R
+ 170 0 R
+ 171 0 R
+ 172 0 R
+ 173 0 R
+ 174 0 R
+ 175 0 R
+ 176 0 R
+ 177 0 R ]
+ /Contents 328 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18270,13 +18936,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-169 0 obj
-<< /Contents 313 0 R
+179 0 obj
+<< /Contents 329 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18287,13 +18953,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-170 0 obj
-<< /Contents 314 0 R
+180 0 obj
+<< /Contents 330 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18304,13 +18970,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-171 0 obj
-<< /Contents 315 0 R
+181 0 obj
+<< /Contents 331 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18321,13 +18987,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-172 0 obj
-<< /Contents 316 0 R
+182 0 obj
+<< /Contents 332 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18338,7 +19004,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-173 0 obj
+183 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson1.html) >>
@@ -18352,7 +19018,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-174 0 obj
+184 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson2.html) >>
@@ -18366,7 +19032,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-175 0 obj
+185 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson3.html) >>
@@ -18380,7 +19046,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-176 0 obj
+186 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson4.html) >>
@@ -18394,17 +19060,17 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-177 0 obj
-<< /Annots [ 173 0 R
- 174 0 R
- 175 0 R
- 176 0 R ]
- /Contents 317 0 R
+187 0 obj
+<< /Annots [ 183 0 R
+ 184 0 R
+ 185 0 R
+ 186 0 R ]
+ /Contents 333 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18415,7 +19081,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-178 0 obj
+188 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson5.html) >>
@@ -18429,7 +19095,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-179 0 obj
+189 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson6.html) >>
@@ -18443,7 +19109,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-180 0 obj
+190 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson7.html) >>
@@ -18457,7 +19123,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-181 0 obj
+191 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson8.html) >>
@@ -18471,7 +19137,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-182 0 obj
+192 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson9.html) >>
@@ -18485,7 +19151,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-183 0 obj
+193 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson10.html) >>
@@ -18499,7 +19165,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-184 0 obj
+194 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.byteback.org/typing-lessons/lesson11.html) >>
@@ -18513,174 +19179,20 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-185 0 obj
-<< /Annots [ 178 0 R
- 179 0 R
- 180 0 R
- 181 0 R
- 182 0 R
- 183 0 R
- 184 0 R ]
- /Contents 318 0 R
- /MediaBox [ 0
- 0
- 612
- 792 ]
- /Parent 307 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
-186 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.byteback.org/typing-lessons/lesson12.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 665.8996
- 334.1417
- 677.8996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-187 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.byteback.org/typing-lessons/lesson13.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 533.4996
- 334.1417
- 545.4996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-188 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.byteback.org/typing-lessons/lesson14.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 395.0996
- 334.1417
- 407.0996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-189 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.byteback.org/typing-lessons/lesson15.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 232.6996
- 334.1417
- 244.6996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-190 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.byteback.org/typing-lessons/test.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 112.2996
- 308.8146
- 124.2996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-191 0 obj
-<< /Annots [ 186 0 R
- 187 0 R
- 188 0 R
- 189 0 R
- 190 0 R ]
- /Contents 319 0 R
- /MediaBox [ 0
- 0
- 612
- 792 ]
- /Parent 307 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
-192 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.typing-lessons.org/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 63.01575
- 94.49961
- 207.8839
- 106.4996 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-193 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.sense-lang.org/typing/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 63.01575
- 76.49961
- 114.8077
- 88.49961 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-194 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.powertyping.com/qwerty/lessonsq.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 63.01575
- 58.49961
- 130.6232
- 70.49961 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 195 0 obj
-<< /Annots [ 192 0 R
+<< /Annots [ 188 0 R
+ 189 0 R
+ 190 0 R
+ 191 0 R
+ 192 0 R
  193 0 R
  194 0 R ]
- /Contents 320 0 R
+ /Contents 334 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18694,6 +19206,160 @@ endobj
 196 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (http://www.byteback.org/typing-lessons/lesson12.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 665.8996
+ 334.1417
+ 677.8996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+197 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.byteback.org/typing-lessons/lesson13.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 533.4996
+ 334.1417
+ 545.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+198 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.byteback.org/typing-lessons/lesson14.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 395.0996
+ 334.1417
+ 407.0996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+199 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.byteback.org/typing-lessons/lesson15.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 232.6996
+ 334.1417
+ 244.6996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+200 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.byteback.org/typing-lessons/test.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 112.2996
+ 308.8146
+ 124.2996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+201 0 obj
+<< /Annots [ 196 0 R
+ 197 0 R
+ 198 0 R
+ 199 0 R
+ 200 0 R ]
+ /Contents 335 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 323 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+202 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.typing-lessons.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 63.01575
+ 94.49961
+ 207.8839
+ 106.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+203 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.sense-lang.org/typing/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 63.01575
+ 76.49961
+ 114.8077
+ 88.49961 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+204 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.powertyping.com/qwerty/lessonsq.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 63.01575
+ 58.49961
+ 130.6232
+ 70.49961 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+205 0 obj
+<< /Annots [ 202 0 R
+ 203 0 R
+ 204 0 R ]
+ /Contents 336 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 323 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+206 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://www.freetypinggame.net/) >>
  /Border [ 0
  0
@@ -18705,7 +19371,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-197 0 obj
+207 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.powertyping.com/baracuda/baracuda.htm) >>
@@ -18719,7 +19385,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-198 0 obj
+208 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.popcap.com/gamepopup.html?theGame=typershark) >>
@@ -18733,16 +19399,16 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-199 0 obj
-<< /Annots [ 196 0 R
- 197 0 R
- 198 0 R ]
- /Contents 321 0 R
+209 0 obj
+<< /Annots [ 206 0 R
+ 207 0 R
+ 208 0 R ]
+ /Contents 337 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18753,13 +19419,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-200 0 obj
-<< /Contents 322 0 R
+210 0 obj
+<< /Contents 338 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18770,13 +19436,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-201 0 obj
-<< /Contents 323 0 R
+211 0 obj
+<< /Contents 339 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18787,13 +19453,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-202 0 obj
-<< /Contents 324 0 R
+212 0 obj
+<< /Contents 340 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 307 0 R
+ /Parent 323 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -18804,7 +19470,24 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-203 0 obj
+213 0 obj
+<< /Contents 341 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 323 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+214 0 obj
 << /Length 1897 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -18955,7 +19638,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-204 0 obj
+215 0 obj
 << /Length 35128
  /Length1 35128 >>
 stream
@@ -19388,7 +20071,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 ˛
 @˙d˛  ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-205 0 obj
+216 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -19397,20 +20080,20 @@ endobj
  -415.0391
  1975.098
  1174.316 ]
- /FontFile2 204 0 R
+ /FontFile2 215 0 R
  /FontName /AAAAAA+DejaVuSans-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-206 0 obj
+217 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-Bold
  /FirstChar 0
- /FontDescriptor 205 0 R
+ /FontDescriptor 216 0 R
  /LastChar 127
  /Name /F1+0
  /Subtype /TrueType
- /ToUnicode 203 0 R
+ /ToUnicode 214 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -19541,7 +20224,7 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-207 0 obj
+218 0 obj
 << /Length 1909 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -19692,7 +20375,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-208 0 obj
+219 0 obj
 << /Length 24916
  /Length1 24916 >>
 stream
@@ -19907,7 +20590,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 ∏Ä@		
 ∏@¥	∏ @ñ  ∏dÖç++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-209 0 obj
+220 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -19916,20 +20599,20 @@ endobj
  -394.043
  730.957
  1051.758 ]
- /FontFile2 208 0 R
+ /FontFile2 219 0 R
  /FontName /AAAAAA+DejaVuSansMono-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-210 0 obj
+221 0 obj
 << /BaseFont /AAAAAA+DejaVuSansMono-Bold
  /FirstChar 0
- /FontDescriptor 209 0 R
+ /FontDescriptor 220 0 R
  /LastChar 127
  /Name /F2+0
  /Subtype /TrueType
- /ToUnicode 207 0 R
+ /ToUnicode 218 0 R
  /Type /Font
  /Widths [ 602.0508
  602.0508
@@ -20060,7 +20743,7 @@ endobj
  602.0508
  602.0508 ] >>
 endobj
-211 0 obj
+222 0 obj
 << /Length 1894 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -20212,7 +20895,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-212 0 obj
+223 0 obj
 << /Length 35528
  /Length1 35528 >>
 stream
@@ -20642,7 +21325,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 WW2V˛UTUBTSSRQJQ˛PO˛NMN˛ML˛KJK˛JIJIIHG˛FñEñD˛C-C˙BªAK@˛?˛>=>=<=<;<@ˇ;:˛9˛878˙767656543212˛10/0/.-	.-	,2+*%+d*)*%)('%(A'%&%&%$˛#˛"!! d˙dB˛˙BB˛d˛˛˛˛B˛-B}d˛˛˛
 	˛-˛d˛@-˛- ˛∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-213 0 obj
+224 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -20651,20 +21334,20 @@ endobj
  -415.0391
  1680.664
  1166.504 ]
- /FontFile2 212 0 R
+ /FontFile2 223 0 R
  /FontName /AAAAAA+DejaVuSans
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
-214 0 obj
+225 0 obj
 << /BaseFont /AAAAAA+DejaVuSans
  /FirstChar 0
- /FontDescriptor 213 0 R
+ /FontDescriptor 224 0 R
  /LastChar 128
  /Name /F3+0
  /Subtype /TrueType
- /ToUnicode 211 0 R
+ /ToUnicode 222 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -20796,7 +21479,7 @@ endobj
  600.0977
  589.8438 ] >>
 endobj
-215 0 obj
+226 0 obj
 << /Length 1918 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -20947,7 +21630,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-216 0 obj
+227 0 obj
 << /Length 37172
  /Length1 37172 >>
 stream
@@ -21415,7 +22098,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 
 @ ∏dÖç++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-217 0 obj
+228 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -21424,20 +22107,20 @@ endobj
  -385.2539
  1998.535
  1120.605 ]
- /FontFile2 216 0 R
+ /FontFile2 227 0 R
  /FontName /AAAAAA+DejaVuSans-BoldOblique
  /ItalicAngle -11
  /StemV 165
  /Type /FontDescriptor >>
 endobj
-218 0 obj
+229 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-BoldOblique
  /FirstChar 0
- /FontDescriptor 217 0 R
+ /FontDescriptor 228 0 R
  /LastChar 127
  /Name /F4+0
  /Subtype /TrueType
- /ToUnicode 215 0 R
+ /ToUnicode 226 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -21568,7 +22251,7 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-219 0 obj
+230 0 obj
 << /Length 1906 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -21719,7 +22402,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-220 0 obj
+231 0 obj
 << /Length 38904
  /Length1 38904 >>
 stream
@@ -22201,7 +22884,7 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 
 @ ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-221 0 obj
+232 0 obj
 << /Ascent 759.7656
  /CapHeight 759.7656
  /Descent -240.2344
@@ -22210,20 +22893,20 @@ endobj
  -350.0977
  1659.18
  1067.871 ]
- /FontFile2 220 0 R
+ /FontFile2 231 0 R
  /FontName /AAAAAA+DejaVuSans-Oblique
  /ItalicAngle -11
  /StemV 87
  /Type /FontDescriptor >>
 endobj
-222 0 obj
+233 0 obj
 << /BaseFont /AAAAAA+DejaVuSans-Oblique
  /FirstChar 0
- /FontDescriptor 221 0 R
+ /FontDescriptor 232 0 R
  /LastChar 127
  /Name /F5+0
  /Subtype /TrueType
- /ToUnicode 219 0 R
+ /ToUnicode 230 0 R
  /Type /Font
  /Widths [ 600.0977
  600.0977
@@ -22354,14 +23037,14 @@ endobj
  837.8906
  600.0977 ] >>
 endobj
-223 0 obj
-<< /Outlines 225 0 R
- /PageLabels 325 0 R
+234 0 obj
+<< /Outlines 236 0 R
+ /PageLabels 342 0 R
  /PageMode /UseNone
- /Pages 307 0 R
+ /Pages 323 0 R
  /Type /Catalog >>
 endobj
-224 0 obj
+235 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -22370,944 +23053,1001 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-225 0 obj
-<< /Count 102
- /First 226 0 R
- /Last 306 0 R
+236 0 obj
+<< /Count 108
+ /First 237 0 R
+ /Last 322 0 R
  /Type /Outlines >>
 endobj
-226 0 obj
-<< /Count 79
- /Dest [ 170 0 R
+237 0 obj
+<< /Count 84
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /First 227 0 R
- /Last 305 0 R
- /Next 306 0 R
- /Parent 225 0 R
+ /First 238 0 R
+ /Last 317 0 R
+ /Next 322 0 R
+ /Parent 236 0 R
  /Title (Middle Division Computing Curriculum) >>
 endobj
-227 0 obj
+238 0 obj
 << /Count 3
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  679.1496
  0 ]
- /First 228 0 R
- /Last 230 0 R
- /Next 231 0 R
- /Parent 226 0 R
+ /First 239 0 R
+ /Last 241 0 R
+ /Next 242 0 R
+ /Parent 237 0 R
  /Title (Preface) >>
 endobj
-228 0 obj
-<< /Dest [ 170 0 R
+239 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  643.9496
  0 ]
- /Next 229 0 R
- /Parent 227 0 R
+ /Next 240 0 R
+ /Parent 238 0 R
  /Title (Problem) >>
 endobj
-229 0 obj
-<< /Dest [ 170 0 R
+240 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  611.1496
  0 ]
- /Next 230 0 R
- /Parent 227 0 R
- /Prev 228 0 R
+ /Next 241 0 R
+ /Parent 238 0 R
+ /Prev 239 0 R
  /Title (Rationale) >>
 endobj
-230 0 obj
-<< /Dest [ 170 0 R
+241 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  578.3496
  0 ]
- /Parent 227 0 R
- /Prev 229 0 R
+ /Parent 238 0 R
+ /Prev 240 0 R
  /Title (Values) >>
 endobj
-231 0 obj
+242 0 obj
 << /Count 22
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  545.5496
  0 ]
- /First 232 0 R
- /Last 252 0 R
- /Next 254 0 R
- /Parent 226 0 R
- /Prev 227 0 R
+ /First 243 0 R
+ /Last 263 0 R
+ /Next 265 0 R
+ /Parent 237 0 R
+ /Prev 238 0 R
  /Title (Keyboarding Objectives) >>
 endobj
-232 0 obj
-<< /Dest [ 170 0 R
+243 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  510.3496
  0 ]
- /Next 233 0 R
- /Parent 231 0 R
+ /Next 244 0 R
+ /Parent 242 0 R
  /Title (To Do) >>
 endobj
-233 0 obj
-<< /Dest [ 170 0 R
+244 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  417.5496
  0 ]
- /Next 234 0 R
- /Parent 231 0 R
- /Prev 232 0 R
+ /Next 245 0 R
+ /Parent 242 0 R
+ /Prev 243 0 R
  /Title (Getting Started) >>
 endobj
-234 0 obj
+245 0 obj
 << /Count 2
- /Dest [ 170 0 R
+ /Dest [ 180 0 R
  /XYZ
  40.01575
  366.7496
  0 ]
- /First 235 0 R
- /Last 236 0 R
- /Next 237 0 R
- /Parent 231 0 R
- /Prev 233 0 R
+ /First 246 0 R
+ /Last 247 0 R
+ /Next 248 0 R
+ /Parent 242 0 R
+ /Prev 244 0 R
  /Title (Unit 1) >>
 endobj
-235 0 obj
-<< /Dest [ 170 0 R
+246 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  333.9496
  0 ]
- /Next 236 0 R
- /Parent 234 0 R
+ /Next 247 0 R
+ /Parent 245 0 R
  /Title (Keyboarding) >>
 endobj
-236 0 obj
-<< /Dest [ 170 0 R
+247 0 obj
+<< /Dest [ 180 0 R
  /XYZ
  40.01575
  93.54961
  0 ]
- /Parent 234 0 R
- /Prev 235 0 R
+ /Parent 245 0 R
+ /Prev 246 0 R
  /Title (Communicating) >>
 endobj
-237 0 obj
+248 0 obj
 << /Count 1
- /Dest [ 171 0 R
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  673.1496
  0 ]
- /First 238 0 R
- /Last 238 0 R
- /Next 239 0 R
- /Parent 231 0 R
- /Prev 234 0 R
- /Title (Unit 2) >>
-endobj
-238 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 640.3496
- 0 ]
- /Parent 237 0 R
- /Title (Keyboarding) >>
-endobj
-239 0 obj
-<< /Count 4
- /Dest [ 171 0 R
- /XYZ
- 40.01575
- 519.9496
- 0 ]
- /First 240 0 R
- /Last 243 0 R
- /Next 244 0 R
- /Parent 231 0 R
- /Prev 237 0 R
- /Title (Unit 3) >>
-endobj
-240 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 487.1496
- 0 ]
- /Next 241 0 R
- /Parent 239 0 R
- /Title (Keyboarding) >>
-endobj
-241 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 402.7496
- 0 ]
- /Next 242 0 R
- /Parent 239 0 R
- /Prev 240 0 R
- /Title (Document Design Skills) >>
-endobj
-242 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 300.3496
- 0 ]
- /Next 243 0 R
- /Parent 239 0 R
- /Prev 241 0 R
- /Title (Word Processing Skills) >>
-endobj
-243 0 obj
-<< /Dest [ 171 0 R
- /XYZ
- 40.01575
- 215.9496
- 0 ]
- /Parent 239 0 R
- /Prev 242 0 R
- /Title (Communication Skills) >>
-endobj
-244 0 obj
-<< /Count 1
- /Dest [ 171 0 R
- /XYZ
- 40.01575
- 95.54961
- 0 ]
- /First 245 0 R
- /Last 245 0 R
- /Next 246 0 R
- /Parent 231 0 R
- /Prev 239 0 R
- /Title (Unit 4) >>
-endobj
-245 0 obj
-<< /Dest [ 172 0 R
- /XYZ
- 40.01575
- 737.1496
- 0 ]
- /Parent 244 0 R
- /Title (Keyboarding) >>
-endobj
-246 0 obj
-<< /Count 1
- /Dest [ 172 0 R
- /XYZ
- 40.01575
- 598.7496
- 0 ]
- /First 247 0 R
- /Last 247 0 R
- /Next 248 0 R
- /Parent 231 0 R
- /Prev 244 0 R
- /Title (Unit 5) >>
-endobj
-247 0 obj
-<< /Dest [ 172 0 R
- /XYZ
- 40.01575
- 565.9496
- 0 ]
- /Parent 246 0 R
- /Title (Keyboarding) >>
-endobj
-248 0 obj
-<< /Count 1
- /Dest [ 172 0 R
- /XYZ
- 40.01575
- 427.5496
- 0 ]
  /First 249 0 R
  /Last 249 0 R
  /Next 250 0 R
- /Parent 231 0 R
- /Prev 246 0 R
- /Title (Unit 6) >>
+ /Parent 242 0 R
+ /Prev 245 0 R
+ /Title (Unit 2) >>
 endobj
 249 0 obj
-<< /Dest [ 172 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 394.7496
+ 640.3496
  0 ]
  /Parent 248 0 R
  /Title (Keyboarding) >>
 endobj
 250 0 obj
-<< /Count 1
- /Dest [ 172 0 R
+<< /Count 4
+ /Dest [ 181 0 R
  /XYZ
  40.01575
- 250.3496
+ 519.9496
  0 ]
  /First 251 0 R
- /Last 251 0 R
- /Next 252 0 R
- /Parent 231 0 R
+ /Last 254 0 R
+ /Next 255 0 R
+ /Parent 242 0 R
  /Prev 248 0 R
- /Title (Unit 7) >>
+ /Title (Unit 3) >>
 endobj
 251 0 obj
-<< /Dest [ 172 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 217.5496
+ 487.1496
  0 ]
+ /Next 252 0 R
  /Parent 250 0 R
  /Title (Keyboarding) >>
 endobj
 252 0 obj
-<< /Count 1
- /Dest [ 172 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 97.14961
+ 402.7496
  0 ]
- /First 253 0 R
- /Last 253 0 R
- /Parent 231 0 R
- /Prev 250 0 R
- /Title (Unit 8) >>
+ /Next 253 0 R
+ /Parent 250 0 R
+ /Prev 251 0 R
+ /Title (Document Design Skills) >>
 endobj
 253 0 obj
-<< /Dest [ 177 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
- 737.1496
+ 300.3496
  0 ]
- /Parent 252 0 R
- /Title (Keyboarding) >>
+ /Next 254 0 R
+ /Parent 250 0 R
+ /Prev 252 0 R
+ /Title (Word Processing Skills) >>
 endobj
 254 0 obj
-<< /Count 20
- /Dest [ 177 0 R
- /XYZ
- 40.01575
- 634.7496
- 0 ]
- /First 255 0 R
- /Last 272 0 R
- /Next 275 0 R
- /Parent 226 0 R
- /Prev 231 0 R
- /Title (Keyboarding Lessons: Divergent Models from Reliable Sources) >>
-endobj
-255 0 obj
-<< /Count 16
- /Dest [ 177 0 R
- /XYZ
- 40.01575
- 580.3496
- 0 ]
- /First 256 0 R
- /Last 271 0 R
- /Next 272 0 R
- /Parent 254 0 R
- /Title (Resource: ByteBack) >>
-endobj
-256 0 obj
-<< /Dest [ 177 0 R
- /XYZ
- 40.01575
- 547.5496
- 0 ]
- /Next 257 0 R
- /Parent 255 0 R
- /Title (Lesson 1: Left Hand & Home Row) >>
-endobj
-257 0 obj
-<< /Dest [ 177 0 R
- /XYZ
- 40.01575
- 397.1496
- 0 ]
- /Next 258 0 R
- /Parent 255 0 R
- /Prev 256 0 R
- /Title (Lesson 2: Right Hand & Home Row) >>
-endobj
-258 0 obj
-<< /Dest [ 177 0 R
- /XYZ
- 40.01575
- 288.7496
- 0 ]
- /Next 259 0 R
- /Parent 255 0 R
- /Prev 257 0 R
- /Title (Lesson 3: Both Hands, Home Row) >>
-endobj
-259 0 obj
-<< /Dest [ 177 0 R
- /XYZ
- 40.01575
- 192.3496
- 0 ]
- /Next 260 0 R
- /Parent 255 0 R
- /Prev 258 0 R
- /Title (Lesson 4: Home Row with G and H) >>
-endobj
-260 0 obj
-<< /Dest [ 177 0 R
- /XYZ
- 40.01575
- 71.94961
- 0 ]
- /Next 261 0 R
- /Parent 255 0 R
- /Prev 259 0 R
- /Title (Lesson 5: E and I) >>
-endobj
-261 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 661.1496
- 0 ]
- /Next 262 0 R
- /Parent 255 0 R
- /Prev 260 0 R
- /Title (Lesson 6: R and U) >>
-endobj
-262 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 552.7496
- 0 ]
- /Next 263 0 R
- /Parent 255 0 R
- /Prev 261 0 R
- /Title (Lesson 7: T and Y) >>
-endobj
-263 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 456.3496
- 0 ]
- /Next 264 0 R
- /Parent 255 0 R
- /Prev 262 0 R
- /Title (Lesson 8: B and N) >>
-endobj
-264 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 347.9496
- 0 ]
- /Next 265 0 R
- /Parent 255 0 R
- /Prev 263 0 R
- /Title (Lesson 9: V and M) >>
-endobj
-265 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 251.5496
- 0 ]
- /Next 266 0 R
- /Parent 255 0 R
- /Prev 264 0 R
- /Title (Lesson 10: W and O) >>
-endobj
-266 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 203.1496
- 0 ]
- /Next 267 0 R
- /Parent 255 0 R
- /Prev 265 0 R
- /Title (Lesson 11: Q and P) >>
-endobj
-267 0 obj
-<< /Dest [ 185 0 R
- /XYZ
- 40.01575
- 94.74961
- 0 ]
- /Next 268 0 R
- /Parent 255 0 R
- /Prev 266 0 R
- /Title (Lesson 12: C and Comma \(,\)) >>
-endobj
-268 0 obj
-<< /Dest [ 191 0 R
- /XYZ
- 40.01575
- 649.1496
- 0 ]
- /Next 269 0 R
- /Parent 255 0 R
- /Prev 267 0 R
- /Title (Lesson 13: Z, X, and Period \(.\)) >>
-endobj
-269 0 obj
-<< /Dest [ 191 0 R
- /XYZ
- 40.01575
- 516.7496
- 0 ]
- /Next 270 0 R
- /Parent 255 0 R
- /Prev 268 0 R
- /Title (Lesson 14: The Shift Key) >>
-endobj
-270 0 obj
-<< /Dest [ 191 0 R
- /XYZ
- 40.01575
- 378.3496
- 0 ]
- /Next 271 0 R
- /Parent 255 0 R
- /Prev 269 0 R
- /Title (Lesson 15: ? and !) >>
-endobj
-271 0 obj
-<< /Dest [ 191 0 R
+<< /Dest [ 181 0 R
  /XYZ
  40.01575
  215.9496
  0 ]
- /Parent 255 0 R
- /Prev 270 0 R
- /Title (Final Assessment) >>
+ /Parent 250 0 R
+ /Prev 253 0 R
+ /Title (Communication Skills) >>
 endobj
-272 0 obj
-<< /Count 2
- /Dest [ 191 0 R
+255 0 obj
+<< /Count 1
+ /Dest [ 181 0 R
  /XYZ
  40.01575
  95.54961
  0 ]
- /First 273 0 R
- /Last 274 0 R
- /Parent 254 0 R
+ /First 256 0 R
+ /Last 256 0 R
+ /Next 257 0 R
+ /Parent 242 0 R
+ /Prev 250 0 R
+ /Title (Unit 4) >>
+endobj
+256 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Parent 255 0 R
+ /Title (Keyboarding) >>
+endobj
+257 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 598.7496
+ 0 ]
+ /First 258 0 R
+ /Last 258 0 R
+ /Next 259 0 R
+ /Parent 242 0 R
  /Prev 255 0 R
- /Title (Resource: College Keyboarding) >>
+ /Title (Unit 5) >>
+endobj
+258 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 565.9496
+ 0 ]
+ /Parent 257 0 R
+ /Title (Keyboarding) >>
+endobj
+259 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 427.5496
+ 0 ]
+ /First 260 0 R
+ /Last 260 0 R
+ /Next 261 0 R
+ /Parent 242 0 R
+ /Prev 257 0 R
+ /Title (Unit 6) >>
+endobj
+260 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 394.7496
+ 0 ]
+ /Parent 259 0 R
+ /Title (Keyboarding) >>
+endobj
+261 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 250.3496
+ 0 ]
+ /First 262 0 R
+ /Last 262 0 R
+ /Next 263 0 R
+ /Parent 242 0 R
+ /Prev 259 0 R
+ /Title (Unit 7) >>
+endobj
+262 0 obj
+<< /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 217.5496
+ 0 ]
+ /Parent 261 0 R
+ /Title (Keyboarding) >>
+endobj
+263 0 obj
+<< /Count 1
+ /Dest [ 182 0 R
+ /XYZ
+ 40.01575
+ 97.14961
+ 0 ]
+ /First 264 0 R
+ /Last 264 0 R
+ /Parent 242 0 R
+ /Prev 261 0 R
+ /Title (Unit 8) >>
+endobj
+264 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Parent 263 0 R
+ /Title (Keyboarding) >>
+endobj
+265 0 obj
+<< /Count 20
+ /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 634.7496
+ 0 ]
+ /First 266 0 R
+ /Last 283 0 R
+ /Next 286 0 R
+ /Parent 237 0 R
+ /Prev 242 0 R
+ /Title (Keyboarding Lessons: Divergent Models from Reliable Sources) >>
+endobj
+266 0 obj
+<< /Count 16
+ /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 580.3496
+ 0 ]
+ /First 267 0 R
+ /Last 282 0 R
+ /Next 283 0 R
+ /Parent 265 0 R
+ /Title (Resource: ByteBack) >>
+endobj
+267 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 547.5496
+ 0 ]
+ /Next 268 0 R
+ /Parent 266 0 R
+ /Title (Lesson 1: Left Hand & Home Row) >>
+endobj
+268 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 397.1496
+ 0 ]
+ /Next 269 0 R
+ /Parent 266 0 R
+ /Prev 267 0 R
+ /Title (Lesson 2: Right Hand & Home Row) >>
+endobj
+269 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 288.7496
+ 0 ]
+ /Next 270 0 R
+ /Parent 266 0 R
+ /Prev 268 0 R
+ /Title (Lesson 3: Both Hands, Home Row) >>
+endobj
+270 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 192.3496
+ 0 ]
+ /Next 271 0 R
+ /Parent 266 0 R
+ /Prev 269 0 R
+ /Title (Lesson 4: Home Row with G and H) >>
+endobj
+271 0 obj
+<< /Dest [ 187 0 R
+ /XYZ
+ 40.01575
+ 71.94961
+ 0 ]
+ /Next 272 0 R
+ /Parent 266 0 R
+ /Prev 270 0 R
+ /Title (Lesson 5: E and I) >>
+endobj
+272 0 obj
+<< /Dest [ 195 0 R
+ /XYZ
+ 40.01575
+ 661.1496
+ 0 ]
+ /Next 273 0 R
+ /Parent 266 0 R
+ /Prev 271 0 R
+ /Title (Lesson 6: R and U) >>
 endobj
 273 0 obj
 << /Dest [ 195 0 R
  /XYZ
  40.01575
- 737.1496
+ 552.7496
  0 ]
  /Next 274 0 R
- /Parent 272 0 R
- /Title (Module 1) >>
+ /Parent 266 0 R
+ /Prev 272 0 R
+ /Title (Lesson 7: T and Y) >>
 endobj
 274 0 obj
 << /Dest [ 195 0 R
  /XYZ
  40.01575
- 544.7496
+ 456.3496
  0 ]
- /Parent 272 0 R
+ /Next 275 0 R
+ /Parent 266 0 R
  /Prev 273 0 R
- /Title (Module 2) >>
+ /Title (Lesson 8: B and N) >>
 endobj
 275 0 obj
-<< /Count 5
- /Dest [ 195 0 R
+<< /Dest [ 195 0 R
  /XYZ
  40.01575
- 298.3496
+ 347.9496
  0 ]
- /First 276 0 R
- /Last 280 0 R
- /Next 281 0 R
- /Parent 226 0 R
- /Prev 254 0 R
- /Title (Keyboarding Enrichment Resources) >>
+ /Next 276 0 R
+ /Parent 266 0 R
+ /Prev 274 0 R
+ /Title (Lesson 9: V and M) >>
 endobj
 276 0 obj
 << /Dest [ 195 0 R
  /XYZ
  40.01575
- 263.1496
+ 251.5496
  0 ]
  /Next 277 0 R
- /Parent 275 0 R
- /Title (To Do) >>
+ /Parent 266 0 R
+ /Prev 275 0 R
+ /Title (Lesson 10: W and O) >>
 endobj
 277 0 obj
 << /Dest [ 195 0 R
  /XYZ
  40.01575
- 188.3496
+ 203.1496
  0 ]
  /Next 278 0 R
- /Parent 275 0 R
+ /Parent 266 0 R
  /Prev 276 0 R
- /Title (Intro) >>
+ /Title (Lesson 11: Q and P) >>
 endobj
 278 0 obj
 << /Dest [ 195 0 R
  /XYZ
  40.01575
- 137.5496
+ 94.74961
  0 ]
  /Next 279 0 R
- /Parent 275 0 R
+ /Parent 266 0 R
  /Prev 277 0 R
- /Title (Typing Lessons) >>
+ /Title (Lesson 12: C and Comma \(,\)) >>
 endobj
 279 0 obj
-<< /Dest [ 199 0 R
+<< /Dest [ 201 0 R
+ /XYZ
+ 40.01575
+ 649.1496
+ 0 ]
+ /Next 280 0 R
+ /Parent 266 0 R
+ /Prev 278 0 R
+ /Title (Lesson 13: Z, X, and Period \(.\)) >>
+endobj
+280 0 obj
+<< /Dest [ 201 0 R
+ /XYZ
+ 40.01575
+ 516.7496
+ 0 ]
+ /Next 281 0 R
+ /Parent 266 0 R
+ /Prev 279 0 R
+ /Title (Lesson 14: The Shift Key) >>
+endobj
+281 0 obj
+<< /Dest [ 201 0 R
+ /XYZ
+ 40.01575
+ 378.3496
+ 0 ]
+ /Next 282 0 R
+ /Parent 266 0 R
+ /Prev 280 0 R
+ /Title (Lesson 15: ? and !) >>
+endobj
+282 0 obj
+<< /Dest [ 201 0 R
+ /XYZ
+ 40.01575
+ 215.9496
+ 0 ]
+ /Parent 266 0 R
+ /Prev 281 0 R
+ /Title (Final Assessment) >>
+endobj
+283 0 obj
+<< /Count 2
+ /Dest [ 201 0 R
+ /XYZ
+ 40.01575
+ 95.54961
+ 0 ]
+ /First 284 0 R
+ /Last 285 0 R
+ /Parent 265 0 R
+ /Prev 266 0 R
+ /Title (Resource: College Keyboarding) >>
+endobj
+284 0 obj
+<< /Dest [ 205 0 R
  /XYZ
  40.01575
  737.1496
  0 ]
- /Next 280 0 R
- /Parent 275 0 R
- /Prev 278 0 R
+ /Next 285 0 R
+ /Parent 283 0 R
+ /Title (Module 1) >>
+endobj
+285 0 obj
+<< /Dest [ 205 0 R
+ /XYZ
+ 40.01575
+ 544.7496
+ 0 ]
+ /Parent 283 0 R
+ /Prev 284 0 R
+ /Title (Module 2) >>
+endobj
+286 0 obj
+<< /Count 5
+ /Dest [ 205 0 R
+ /XYZ
+ 40.01575
+ 298.3496
+ 0 ]
+ /First 287 0 R
+ /Last 291 0 R
+ /Next 292 0 R
+ /Parent 237 0 R
+ /Prev 265 0 R
+ /Title (Keyboarding Enrichment Resources) >>
+endobj
+287 0 obj
+<< /Dest [ 205 0 R
+ /XYZ
+ 40.01575
+ 263.1496
+ 0 ]
+ /Next 288 0 R
+ /Parent 286 0 R
+ /Title (To Do) >>
+endobj
+288 0 obj
+<< /Dest [ 205 0 R
+ /XYZ
+ 40.01575
+ 188.3496
+ 0 ]
+ /Next 289 0 R
+ /Parent 286 0 R
+ /Prev 287 0 R
+ /Title (Intro) >>
+endobj
+289 0 obj
+<< /Dest [ 205 0 R
+ /XYZ
+ 40.01575
+ 137.5496
+ 0 ]
+ /Next 290 0 R
+ /Parent 286 0 R
+ /Prev 288 0 R
+ /Title (Typing Lessons) >>
+endobj
+290 0 obj
+<< /Dest [ 209 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Next 291 0 R
+ /Parent 286 0 R
+ /Prev 289 0 R
  /Title (Typing Games) >>
 endobj
-280 0 obj
-<< /Dest [ 199 0 R
+291 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  620.3496
  0 ]
- /Parent 275 0 R
- /Prev 279 0 R
+ /Parent 286 0 R
+ /Prev 290 0 R
  /Title (Typing Tests) >>
 endobj
-281 0 obj
+292 0 obj
 << /Count 6
- /Dest [ 199 0 R
+ /Dest [ 209 0 R
  /XYZ
  40.01575
  503.5496
  0 ]
- /First 282 0 R
- /Last 285 0 R
- /Next 288 0 R
- /Parent 226 0 R
- /Prev 275 0 R
+ /First 293 0 R
+ /Last 296 0 R
+ /Next 299 0 R
+ /Parent 237 0 R
+ /Prev 286 0 R
  /Title (Computer Systems) >>
 endobj
-282 0 obj
-<< /Dest [ 199 0 R
+293 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  468.3496
  0 ]
- /Next 283 0 R
- /Parent 281 0 R
+ /Next 294 0 R
+ /Parent 292 0 R
  /Title (User Interface) >>
 endobj
-283 0 obj
-<< /Dest [ 199 0 R
+294 0 obj
+<< /Dest [ 209 0 R
  /XYZ
  40.01575
  237.5496
  0 ]
- /Next 284 0 R
- /Parent 281 0 R
- /Prev 282 0 R
+ /Next 295 0 R
+ /Parent 292 0 R
+ /Prev 293 0 R
  /Title (File Management) >>
 endobj
-284 0 obj
-<< /Dest [ 200 0 R
+295 0 obj
+<< /Dest [ 210 0 R
  /XYZ
  40.01575
  673.1496
  0 ]
- /Next 285 0 R
- /Parent 281 0 R
- /Prev 283 0 R
+ /Next 296 0 R
+ /Parent 292 0 R
+ /Prev 294 0 R
  /Title (Fundamental Web Literacy) >>
 endobj
-285 0 obj
+296 0 obj
 << /Count 2
- /Dest [ 200 0 R
+ /Dest [ 210 0 R
  /XYZ
  40.01575
  316.3496
  0 ]
- /First 286 0 R
- /Last 287 0 R
- /Parent 281 0 R
- /Prev 284 0 R
+ /First 297 0 R
+ /Last 298 0 R
+ /Parent 292 0 R
+ /Prev 295 0 R
  /Title (Computer Systems) >>
 endobj
-286 0 obj
-<< /Dest [ 200 0 R
+297 0 obj
+<< /Dest [ 210 0 R
  /XYZ
  40.01575
  211.5496
  0 ]
- /Next 287 0 R
- /Parent 285 0 R
+ /Next 298 0 R
+ /Parent 296 0 R
  /Title (Hardware) >>
 endobj
-287 0 obj
-<< /Dest [ 201 0 R
+298 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  691.1496
  0 ]
- /Parent 285 0 R
- /Prev 286 0 R
+ /Parent 296 0 R
+ /Prev 297 0 R
  /Title (Software) >>
 endobj
-288 0 obj
+299 0 obj
 << /Count 16
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  570.7496
  0 ]
- /First 289 0 R
- /Last 304 0 R
- /Next 305 0 R
- /Parent 226 0 R
- /Prev 281 0 R
+ /First 300 0 R
+ /Last 315 0 R
+ /Next 316 0 R
+ /Parent 237 0 R
+ /Prev 292 0 R
  /Title (Office Applications) >>
 endobj
-289 0 obj
+300 0 obj
 << /Count 5
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  535.5496
  0 ]
- /First 290 0 R
- /Last 294 0 R
- /Next 295 0 R
- /Parent 288 0 R
+ /First 301 0 R
+ /Last 305 0 R
+ /Next 306 0 R
+ /Parent 299 0 R
  /Title (Word Processor) >>
 endobj
-290 0 obj
-<< /Dest [ 201 0 R
+301 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  502.7496
  0 ]
- /Next 291 0 R
- /Parent 289 0 R
+ /Next 302 0 R
+ /Parent 300 0 R
  /Title (Creating Documents) >>
 endobj
-291 0 obj
-<< /Dest [ 201 0 R
+302 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  448.3496
  0 ]
- /Next 292 0 R
- /Parent 289 0 R
- /Prev 290 0 R
+ /Next 303 0 R
+ /Parent 300 0 R
+ /Prev 301 0 R
  /Title (Editing Documents) >>
 endobj
-292 0 obj
-<< /Dest [ 201 0 R
+303 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  393.9496
  0 ]
- /Next 293 0 R
- /Parent 289 0 R
- /Prev 291 0 R
+ /Next 304 0 R
+ /Parent 300 0 R
+ /Prev 302 0 R
  /Title (Formatting Text) >>
 endobj
-293 0 obj
-<< /Dest [ 201 0 R
+304 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  339.5496
  0 ]
- /Next 294 0 R
- /Parent 289 0 R
- /Prev 292 0 R
+ /Next 305 0 R
+ /Parent 300 0 R
+ /Prev 303 0 R
  /Title (Formatting Paragraphs) >>
 endobj
-294 0 obj
-<< /Dest [ 201 0 R
+305 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  285.1496
  0 ]
- /Parent 289 0 R
- /Prev 293 0 R
+ /Parent 300 0 R
+ /Prev 304 0 R
  /Title (Formatting Documents) >>
 endobj
-295 0 obj
+306 0 obj
 << /Count 3
- /Dest [ 201 0 R
+ /Dest [ 211 0 R
  /XYZ
  40.01575
  230.7496
  0 ]
- /First 296 0 R
- /Last 298 0 R
- /Next 299 0 R
- /Parent 288 0 R
- /Prev 289 0 R
+ /First 307 0 R
+ /Last 309 0 R
+ /Next 310 0 R
+ /Parent 299 0 R
+ /Prev 300 0 R
  /Title (Spreadsheets) >>
 endobj
-296 0 obj
-<< /Dest [ 201 0 R
+307 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  197.9496
  0 ]
- /Next 297 0 R
- /Parent 295 0 R
+ /Next 308 0 R
+ /Parent 306 0 R
  /Title (Working with Formulas and Functions) >>
 endobj
-297 0 obj
-<< /Dest [ 201 0 R
+308 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  143.5496
  0 ]
- /Next 298 0 R
- /Parent 295 0 R
- /Prev 296 0 R
+ /Next 309 0 R
+ /Parent 306 0 R
+ /Prev 307 0 R
  /Title (Formatting a Worksheet) >>
 endobj
-298 0 obj
-<< /Dest [ 201 0 R
+309 0 obj
+<< /Dest [ 211 0 R
  /XYZ
  40.01575
  89.14961
  0 ]
- /Parent 295 0 R
- /Prev 297 0 R
+ /Parent 306 0 R
+ /Prev 308 0 R
  /Title (Working with Charts) >>
 endobj
-299 0 obj
+310 0 obj
 << /Count 4
- /Dest [ 202 0 R
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  709.1496
  0 ]
- /First 300 0 R
- /Last 303 0 R
- /Next 304 0 R
- /Parent 288 0 R
- /Prev 295 0 R
+ /First 311 0 R
+ /Last 314 0 R
+ /Next 315 0 R
+ /Parent 299 0 R
+ /Prev 306 0 R
  /Title (Presentations) >>
 endobj
-300 0 obj
-<< /Dest [ 202 0 R
+311 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  676.3496
  0 ]
- /Next 301 0 R
- /Parent 299 0 R
+ /Next 312 0 R
+ /Parent 310 0 R
  /Title (Creating a Presentation) >>
 endobj
-301 0 obj
-<< /Dest [ 202 0 R
+312 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  621.9496
  0 ]
- /Next 302 0 R
- /Parent 299 0 R
- /Prev 300 0 R
+ /Next 313 0 R
+ /Parent 310 0 R
+ /Prev 311 0 R
  /Title (Modifying a Presentation) >>
 endobj
-302 0 obj
-<< /Dest [ 202 0 R
+313 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  567.5496
  0 ]
- /Next 303 0 R
- /Parent 299 0 R
- /Prev 301 0 R
+ /Next 314 0 R
+ /Parent 310 0 R
+ /Prev 312 0 R
  /Title (Inserting Objects into a Presentation) >>
 endobj
-303 0 obj
-<< /Dest [ 202 0 R
+314 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  513.1496
  0 ]
- /Parent 299 0 R
- /Prev 302 0 R
+ /Parent 310 0 R
+ /Prev 313 0 R
  /Title (Polishing a Presentation) >>
 endobj
-304 0 obj
-<< /Dest [ 202 0 R
+315 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  458.7496
  0 ]
- /Parent 288 0 R
- /Prev 299 0 R
+ /Parent 299 0 R
+ /Prev 310 0 R
  /Title (Application Integration) >>
 endobj
-305 0 obj
-<< /Dest [ 202 0 R
+316 0 obj
+<< /Dest [ 212 0 R
  /XYZ
  40.01575
  401.9496
  0 ]
- /Parent 226 0 R
- /Prev 288 0 R
+ /Next 317 0 R
+ /Parent 237 0 R
+ /Prev 299 0 R
  /Title (Programming) >>
 endobj
-306 0 obj
-<< /Dest [ 202 0 R
+317 0 obj
+<< /Count 4
+ /Dest [ 212 0 R
  /XYZ
  40.01575
  342.7496
  0 ]
- /Parent 225 0 R
- /Prev 226 0 R
+ /First 318 0 R
+ /Last 321 0 R
+ /Parent 237 0 R
+ /Prev 316 0 R
+ /Title (Anchor Texts) >>
+endobj
+318 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 307.5496
+ 0 ]
+ /Next 319 0 R
+ /Parent 317 0 R
+ /Title (Computer Systems) >>
+endobj
+319 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 244.7496
+ 0 ]
+ /Next 320 0 R
+ /Parent 317 0 R
+ /Prev 318 0 R
+ /Title (Keyboarding) >>
+endobj
+320 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 187.9496
+ 0 ]
+ /Next 321 0 R
+ /Parent 317 0 R
+ /Prev 319 0 R
+ /Title (Software Applications) >>
+endobj
+321 0 obj
+<< /Dest [ 212 0 R
+ /XYZ
+ 40.01575
+ 125.1496
+ 0 ]
+ /Parent 317 0 R
+ /Prev 320 0 R
+ /Title (Programming) >>
+endobj
+322 0 obj
+<< /Dest [ 213 0 R
+ /XYZ
+ 40.01575
+ 737.1496
+ 0 ]
+ /Parent 236 0 R
+ /Prev 237 0 R
  /Title (Indices and tables) >>
 endobj
-307 0 obj
-<< /Count 17
+323 0 obj
+<< /Count 18
  /Kids [ 2 0 R
  3 0 R
  78 0 R
  157 0 R
- 168 0 R
- 169 0 R
- 170 0 R
- 171 0 R
- 172 0 R
- 177 0 R
- 185 0 R
- 191 0 R
+ 178 0 R
+ 179 0 R
+ 180 0 R
+ 181 0 R
+ 182 0 R
+ 187 0 R
  195 0 R
- 199 0 R
- 200 0 R
  201 0 R
- 202 0 R ]
+ 205 0 R
+ 209 0 R
+ 210 0 R
+ 211 0 R
+ 212 0 R
+ 213 0 R ]
  /Type /Pages >>
 endobj
-308 0 obj
+324 0 obj
 << /Length 937 >>
 stream
 1 0 0 1 0 0 cm 
@@ -23366,7 +24106,7 @@ Q
  
 endstream
 endobj
-309 0 obj
+325 0 obj
 << /Length 56 >>
 stream
 1 0 0 1 0 0 cm 
@@ -23376,7 +24116,7 @@ Q
  
 endstream
 endobj
-310 0 obj
+326 0 obj
 << /Length 9976 >>
 stream
 1 0 0 1 0 0 cm 
@@ -23919,7 +24659,7 @@ Q
  
 endstream
 endobj
-311 0 obj
+327 0 obj
 << /Length 10445 >>
 stream
 1 0 0 1 0 0 cm 
@@ -24482,17 +25222,89 @@ Q
  
 endstream
 endobj
-312 0 obj
-<< /Length 1494 >>
+328 0 obj
+<< /Length 2846 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 40.01575 659.1496 cm
+1 0 0 1 40.01575 569.1496 cm
 0 0 0 rg
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Inserting Objects into a Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Polishing a Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Application Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Anchor Texts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 459.9685 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm 59.27539 0 Td /F3+0 10 Tf 12 TL (11) Tj T* -59.27539 0 Td ET
+Q
+Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Inserting Objects into a Presentation) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Computer Systems) Tj T* ET
 Q
 Q
 q
@@ -24506,7 +25318,9 @@ Q
 q
 1 0 0 1 0 57 cm
 q
-BT 1 0 0 1 60 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Polishing a Presentation) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Keyboarding) Tj T* ET
 Q
 Q
 q
@@ -24520,7 +25334,7 @@ Q
 q
 1 0 0 1 0 39 cm
 q
-BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Application Integration) Tj T* ET
+BT 1 0 0 1 40 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Software Applications) Tj T* ET
 Q
 Q
 q
@@ -24534,7 +25348,9 @@ Q
 q
 1 0 0 1 0 21 cm
 q
-BT 1 0 0 1 20 2 Tm 12 TL 0 0 .501961 rg /F3+0 10 Tf 12 TL (Programming) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 40 2 Tm /F3+0 10 Tf 12 TL (Programming) Tj T* ET
 Q
 Q
 q
@@ -24556,22 +25372,22 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm 58.08398 0 Td /F1+0 10 Tf 12 TL (11) Tj T* -58.08398 0 Td ET
+BT 1 0 0 1 0 2 Tm 58.08398 0 Td /F1+0 10 Tf 12 TL (12) Tj T* -58.08398 0 Td ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 659.1496 cm
+1 0 0 1 40.01575 569.1496 cm
 Q
 q
-1 0 0 1 40.01575 659.1496 cm
+1 0 0 1 40.01575 569.1496 cm
 Q
  
 endstream
 endobj
-313 0 obj
+329 0 obj
 << /Length 56 >>
 stream
 1 0 0 1 0 0 cm 
@@ -24581,7 +25397,7 @@ Q
  
 endstream
 endobj
-314 0 obj
+330 0 obj
 << /Length 7836 >>
 stream
 1 0 0 1 0 0 cm 
@@ -25079,7 +25895,7 @@ Q
  
 endstream
 endobj
-315 0 obj
+331 0 obj
 << /Length 9225 >>
 stream
 1 0 0 1 0 0 cm 
@@ -25675,7 +26491,7 @@ Q
  
 endstream
 endobj
-316 0 obj
+332 0 obj
 << /Length 9400 >>
 stream
 1 0 0 1 0 0 cm 
@@ -26297,7 +27113,7 @@ Q
  
 endstream
 endobj
-317 0 obj
+333 0 obj
 << /Length 6738 >>
 stream
 1 0 0 1 0 0 cm 
@@ -26583,7 +27399,7 @@ Q
  
 endstream
 endobj
-318 0 obj
+334 0 obj
 << /Length 5954 >>
 stream
 1 0 0 1 0 0 cm 
@@ -26814,7 +27630,7 @@ Q
  
 endstream
 endobj
-319 0 obj
+335 0 obj
 << /Length 6264 >>
 stream
 1 0 0 1 0 0 cm 
@@ -27009,7 +27825,7 @@ Q
  
 endstream
 endobj
-320 0 obj
+336 0 obj
 << /Length 10109 >>
 stream
 1 0 0 1 0 0 cm 
@@ -27697,7 +28513,7 @@ Q
  
 endstream
 endobj
-321 0 obj
+337 0 obj
 << /Length 10682 >>
 stream
 1 0 0 1 0 0 cm 
@@ -28371,7 +29187,7 @@ Q
  
 endstream
 endobj
-322 0 obj
+338 0 obj
 << /Length 11393 >>
 stream
 1 0 0 1 0 0 cm 
@@ -29151,7 +29967,7 @@ Q
  
 endstream
 endobj
-323 0 obj
+339 0 obj
 << /Length 7884 >>
 stream
 1 0 0 1 0 0 cm 
@@ -29676,8 +30492,8 @@ Q
  
 endstream
 endobj
-324 0 obj
-<< /Length 5685 >>
+340 0 obj
+<< /Length 6583 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -29962,7 +30778,139 @@ q
 1 0 0 1 40.01575 358.7496 cm
 Q
 q
-1 0 0 1 40.01575 318.7496 cm
+1 0 0 1 40.01575 323.5496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL .12549 .262745 .360784 rg /F1+0 16 Tf 19.2 TL (Anchor Texts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 290.7496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Computer Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 260.7496 cm
+q
+BT 1 0 0 1 0 14 Tm 2.40241 Tw 12 TL 0 0 0 rg /F5+0 10 Tf 12 TL (Microsoft Office 2010 Illustrated Intoductory First Course) Tj /F3+0 10 Tf 12 TL (. Beskeen, Cram, Duffy, Friedrichsen. Eisner) Tj T* 0 Tw (Redding, 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 227.9496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Keyboarding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 215.9496 cm
+Q
+q
+1 0 0 1 40.01575 215.9496 cm
+Q
+q
+1 0 0 1 40.01575 203.9496 cm
+0 0 0 rg
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 8.101562 0 Td /F3+0 10 Tf 12 TL (\200) Tj T* -8.101562 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Placeholder) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 203.9496 cm
+Q
+q
+1 0 0 1 40.01575 171.1496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL .12549 .262745 .360784 rg /F4+0 14 Tf 16.8 TL (Software Applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 141.1496 cm
+q
+BT 1 0 0 1 0 14 Tm 2.40241 Tw 12 TL 0 0 0 rg /F5+0 10 Tf 12 TL (Microsoft Office 2010 Illustrated Intoductory First Course) Tj /F3+0 10 Tf 12 TL (. Beskeen, Cram, Duffy, Friedrichsen. Eisner) Tj T* 0 Tw (Redding, 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 108.3496 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 541.9685 22.8 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 2.8 Tm /F4+0 14 Tf 16.8 TL (Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 90.34961 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5+0 10 Tf 12 TL (Super Scratch Adventures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 757.3228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Presentations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+341 0 obj
+<< /Length 1484 >>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 40.01575 713.1496 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -29974,13 +30922,13 @@ BT 1 0 0 1 0 4 Tm 24 TL .12549 .262745 .360784 rg /F1+0 20 Tf 24 TL (Indices and
 Q
 Q
 q
-1 0 0 1 40.01575 306.7496 cm
+1 0 0 1 40.01575 701.1496 cm
 Q
 q
-1 0 0 1 40.01575 306.7496 cm
+1 0 0 1 40.01575 701.1496 cm
 Q
 q
-1 0 0 1 40.01575 294.7496 cm
+1 0 0 1 40.01575 689.1496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -30000,10 +30948,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 288.7496 cm
+1 0 0 1 40.01575 683.1496 cm
 Q
 q
-1 0 0 1 40.01575 276.7496 cm
+1 0 0 1 40.01575 671.1496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -30023,10 +30971,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 270.7496 cm
+1 0 0 1 40.01575 665.1496 cm
 Q
 q
-1 0 0 1 40.01575 258.7496 cm
+1 0 0 1 40.01575 653.1496 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -30046,134 +30994,140 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 258.7496 cm
+1 0 0 1 40.01575 653.1496 cm
 Q
 q
-1 0 0 1 40.01575 258.7496 cm
+1 0 0 1 40.01575 653.1496 cm
 Q
 q
 1 0 0 1 34.01575 757.3228 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Presentations) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (Indices and tables) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (12) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-325 0 obj
+342 0 obj
 << /Nums [ 0
- 326 0 R
+ 343 0 R
  1
- 327 0 R
+ 344 0 R
  2
- 328 0 R
+ 345 0 R
  3
- 329 0 R
+ 346 0 R
  4
- 330 0 R
+ 347 0 R
  5
- 331 0 R
+ 348 0 R
  6
- 332 0 R
+ 349 0 R
  7
- 333 0 R
+ 350 0 R
  8
- 334 0 R
+ 351 0 R
  9
- 335 0 R
+ 352 0 R
  10
- 336 0 R
+ 353 0 R
  11
- 337 0 R
+ 354 0 R
  12
- 338 0 R
+ 355 0 R
  13
- 339 0 R
+ 356 0 R
  14
- 340 0 R
+ 357 0 R
  15
- 341 0 R
+ 358 0 R
  16
- 342 0 R ] >>
+ 359 0 R
+ 17
+ 360 0 R ] >>
 endobj
-326 0 obj
+343 0 obj
 << /S /D
  /St 1 >>
 endobj
-327 0 obj
+344 0 obj
 << /S /D
  /St 2 >>
 endobj
-328 0 obj
+345 0 obj
 << /S /r
  /St 1 >>
 endobj
-329 0 obj
+346 0 obj
 << /S /r
  /St 2 >>
 endobj
-330 0 obj
+347 0 obj
 << /S /r
  /St 3 >>
 endobj
-331 0 obj
+348 0 obj
 << /S /r
  /St 4 >>
 endobj
-332 0 obj
+349 0 obj
 << /S /D
  /St 1 >>
 endobj
-333 0 obj
+350 0 obj
 << /S /D
  /St 2 >>
 endobj
-334 0 obj
+351 0 obj
 << /S /D
  /St 3 >>
 endobj
-335 0 obj
+352 0 obj
 << /S /D
  /St 4 >>
 endobj
-336 0 obj
+353 0 obj
 << /S /D
  /St 5 >>
 endobj
-337 0 obj
+354 0 obj
 << /S /D
  /St 6 >>
 endobj
-338 0 obj
+355 0 obj
 << /S /D
  /St 7 >>
 endobj
-339 0 obj
+356 0 obj
 << /S /D
  /St 8 >>
 endobj
-340 0 obj
+357 0 obj
 << /S /D
  /St 9 >>
 endobj
-341 0 obj
+358 0 obj
 << /S /D
  /St 10 >>
 endobj
-342 0 obj
+359 0 obj
 << /S /D
  /St 11 >>
 endobj
+360 0 obj
+<< /S /D
+ /St 12 >>
+endobj
 xref
-0 343
+0 361
 0000000000 65535 f
 0000000075 00000 n
 0000000177 00000 n
@@ -30343,188 +31297,206 @@ xref
 0000034735 00000 n
 0000034937 00000 n
 0000035139 00000 n
-0000035478 00000 n
-0000035705 00000 n
-0000035932 00000 n
-0000036159 00000 n
-0000036386 00000 n
-0000036616 00000 n
-0000036846 00000 n
-0000037076 00000 n
-0000037306 00000 n
-0000037585 00000 n
-0000037815 00000 n
-0000038045 00000 n
-0000038275 00000 n
+0000035341 00000 n
+0000035543 00000 n
+0000035745 00000 n
+0000035947 00000 n
+0000036148 00000 n
+0000036350 00000 n
+0000036552 00000 n
+0000036754 00000 n
+0000036956 00000 n
+0000037158 00000 n
+0000037597 00000 n
+0000037824 00000 n
+0000038051 00000 n
+0000038278 00000 n
 0000038505 00000 n
 0000038735 00000 n
-0000038966 00000 n
-0000039197 00000 n
-0000039506 00000 n
-0000039737 00000 n
-0000039968 00000 n
-0000040199 00000 n
-0000040430 00000 n
-0000040657 00000 n
-0000040946 00000 n
-0000041155 00000 n
-0000041367 00000 n
-0000041593 00000 n
-0000041862 00000 n
-0000042071 00000 n
-0000042298 00000 n
-0000042531 00000 n
-0000042800 00000 n
-0000043027 00000 n
-0000043254 00000 n
-0000043481 00000 n
-0000045436 00000 n
-0000080640 00000 n
-0000080913 00000 n
-0000082504 00000 n
-0000084471 00000 n
-0000109463 00000 n
-0000109738 00000 n
-0000111349 00000 n
-0000113301 00000 n
-0000148905 00000 n
-0000149167 00000 n
-0000150754 00000 n
-0000152730 00000 n
-0000189978 00000 n
-0000190260 00000 n
-0000191858 00000 n
-0000193822 00000 n
-0000232802 00000 n
-0000233074 00000 n
-0000234658 00000 n
-0000234779 00000 n
-0000234999 00000 n
-0000235087 00000 n
-0000235291 00000 n
-0000235465 00000 n
-0000235595 00000 n
-0000235743 00000 n
-0000235872 00000 n
-0000236078 00000 n
-0000236206 00000 n
-0000236360 00000 n
-0000236549 00000 n
-0000236683 00000 n
-0000236819 00000 n
-0000237008 00000 n
-0000237126 00000 n
-0000237315 00000 n
-0000237449 00000 n
-0000237610 00000 n
-0000237771 00000 n
-0000237914 00000 n
-0000238103 00000 n
-0000238221 00000 n
-0000238410 00000 n
-0000238528 00000 n
-0000238717 00000 n
-0000238835 00000 n
-0000239024 00000 n
-0000239142 00000 n
-0000239315 00000 n
-0000239433 00000 n
-0000239676 00000 n
-0000239862 00000 n
-0000240015 00000 n
-0000240185 00000 n
-0000240354 00000 n
-0000240524 00000 n
-0000240680 00000 n
-0000240836 00000 n
-0000240992 00000 n
-0000241148 00000 n
-0000241304 00000 n
-0000241461 00000 n
-0000241618 00000 n
-0000241785 00000 n
-0000241957 00000 n
-0000242120 00000 n
-0000242277 00000 n
-0000242416 00000 n
-0000242612 00000 n
-0000242743 00000 n
-0000242874 00000 n
-0000243089 00000 n
-0000243217 00000 n
-0000243361 00000 n
-0000243514 00000 n
-0000243665 00000 n
-0000243800 00000 n
-0000243999 00000 n
-0000244136 00000 n
-0000244290 00000 n
-0000244453 00000 n
-0000244636 00000 n
-0000244767 00000 n
-0000244898 00000 n
-0000245101 00000 n
-0000245282 00000 n
-0000245423 00000 n
-0000245579 00000 n
-0000245733 00000 n
-0000245893 00000 n
-0000246036 00000 n
-0000246231 00000 n
-0000246389 00000 n
-0000246550 00000 n
-0000246692 00000 n
-0000246888 00000 n
-0000247034 00000 n
-0000247197 00000 n
-0000247373 00000 n
-0000247520 00000 n
-0000247666 00000 n
-0000247800 00000 n
-0000247941 00000 n
-0000248167 00000 n
-0000249161 00000 n
-0000249273 00000 n
-0000259307 00000 n
-0000269811 00000 n
-0000271363 00000 n
-0000271475 00000 n
-0000279369 00000 n
-0000288652 00000 n
-0000298110 00000 n
-0000304906 00000 n
-0000310918 00000 n
-0000317240 00000 n
-0000327408 00000 n
-0000338149 00000 n
-0000349601 00000 n
-0000357543 00000 n
-0000363286 00000 n
-0000363565 00000 n
-0000363605 00000 n
-0000363645 00000 n
-0000363685 00000 n
-0000363725 00000 n
-0000363765 00000 n
-0000363805 00000 n
-0000363845 00000 n
-0000363885 00000 n
-0000363925 00000 n
-0000363965 00000 n
-0000364005 00000 n
-0000364045 00000 n
-0000364085 00000 n
-0000364125 00000 n
-0000364165 00000 n
-0000364206 00000 n
+0000038965 00000 n
+0000039195 00000 n
+0000039425 00000 n
+0000039704 00000 n
+0000039934 00000 n
+0000040164 00000 n
+0000040394 00000 n
+0000040624 00000 n
+0000040854 00000 n
+0000041085 00000 n
+0000041316 00000 n
+0000041625 00000 n
+0000041856 00000 n
+0000042087 00000 n
+0000042318 00000 n
+0000042549 00000 n
+0000042776 00000 n
+0000043065 00000 n
+0000043274 00000 n
+0000043486 00000 n
+0000043712 00000 n
+0000043981 00000 n
+0000044190 00000 n
+0000044417 00000 n
+0000044650 00000 n
+0000044919 00000 n
+0000045146 00000 n
+0000045373 00000 n
+0000045600 00000 n
+0000045827 00000 n
+0000047782 00000 n
+0000082986 00000 n
+0000083259 00000 n
+0000084850 00000 n
+0000086817 00000 n
+0000111809 00000 n
+0000112084 00000 n
+0000113695 00000 n
+0000115647 00000 n
+0000151251 00000 n
+0000151513 00000 n
+0000153100 00000 n
+0000155076 00000 n
+0000192324 00000 n
+0000192606 00000 n
+0000194204 00000 n
+0000196168 00000 n
+0000235148 00000 n
+0000235420 00000 n
+0000237004 00000 n
+0000237125 00000 n
+0000237345 00000 n
+0000237433 00000 n
+0000237637 00000 n
+0000237811 00000 n
+0000237941 00000 n
+0000238089 00000 n
+0000238218 00000 n
+0000238424 00000 n
+0000238552 00000 n
+0000238706 00000 n
+0000238895 00000 n
+0000239029 00000 n
+0000239165 00000 n
+0000239354 00000 n
+0000239472 00000 n
+0000239661 00000 n
+0000239795 00000 n
+0000239956 00000 n
+0000240117 00000 n
+0000240260 00000 n
+0000240449 00000 n
+0000240567 00000 n
+0000240756 00000 n
+0000240874 00000 n
+0000241063 00000 n
+0000241181 00000 n
+0000241370 00000 n
+0000241488 00000 n
+0000241661 00000 n
+0000241779 00000 n
+0000242022 00000 n
+0000242208 00000 n
+0000242361 00000 n
+0000242531 00000 n
+0000242700 00000 n
+0000242870 00000 n
+0000243026 00000 n
+0000243182 00000 n
+0000243338 00000 n
+0000243494 00000 n
+0000243650 00000 n
+0000243807 00000 n
+0000243964 00000 n
+0000244131 00000 n
+0000244303 00000 n
+0000244466 00000 n
+0000244623 00000 n
+0000244762 00000 n
+0000244958 00000 n
+0000245089 00000 n
+0000245220 00000 n
+0000245435 00000 n
+0000245563 00000 n
+0000245707 00000 n
+0000245860 00000 n
+0000246011 00000 n
+0000246146 00000 n
+0000246345 00000 n
+0000246482 00000 n
+0000246636 00000 n
+0000246799 00000 n
+0000246982 00000 n
+0000247113 00000 n
+0000247244 00000 n
+0000247447 00000 n
+0000247628 00000 n
+0000247769 00000 n
+0000247925 00000 n
+0000248079 00000 n
+0000248239 00000 n
+0000248382 00000 n
+0000248577 00000 n
+0000248735 00000 n
+0000248896 00000 n
+0000249038 00000 n
+0000249234 00000 n
+0000249380 00000 n
+0000249543 00000 n
+0000249719 00000 n
+0000249866 00000 n
+0000250012 00000 n
+0000250162 00000 n
+0000250341 00000 n
+0000250480 00000 n
+0000250630 00000 n
+0000250790 00000 n
+0000250924 00000 n
+0000251065 00000 n
+0000251301 00000 n
+0000252295 00000 n
+0000252407 00000 n
+0000262441 00000 n
+0000272945 00000 n
+0000275849 00000 n
+0000275961 00000 n
+0000283855 00000 n
+0000293138 00000 n
+0000302596 00000 n
+0000309392 00000 n
+0000315404 00000 n
+0000321726 00000 n
+0000331894 00000 n
+0000342635 00000 n
+0000354087 00000 n
+0000362029 00000 n
+0000368670 00000 n
+0000370212 00000 n
+0000370506 00000 n
+0000370546 00000 n
+0000370586 00000 n
+0000370626 00000 n
+0000370666 00000 n
+0000370706 00000 n
+0000370746 00000 n
+0000370786 00000 n
+0000370826 00000 n
+0000370866 00000 n
+0000370906 00000 n
+0000370946 00000 n
+0000370986 00000 n
+0000371026 00000 n
+0000371066 00000 n
+0000371106 00000 n
+0000371147 00000 n
+0000371188 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 224 0 R
- /Root 223 0 R
- /Size 343 >>
+ /Info 235 0 R
+ /Root 234 0 R
+ /Size 361 >>
 startxref
-364247
+371229
 %%EOF
