@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Middle Division Computing Curriculum's documentation!
-================================================================
+Middle Division Computing Curriculum
+====================================
 
 Contents:
 

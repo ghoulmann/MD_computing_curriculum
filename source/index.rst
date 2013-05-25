@@ -10,10 +10,15 @@ Contents:
 
 .. toctree::
    :maxdepth: 4
-
-   objectives
+   
+   preface
+   keying
    keying_lessons
    keying_links
+   computing
+   apps
+   programming
+
 
 
 Indices and tables
