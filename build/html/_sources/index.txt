@@ -13,6 +13,7 @@ Contents:
 
    objectives
    keying_lessons
+   keying_links
 
 
 Indices and tables
