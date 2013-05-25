@@ -141,3 +141,45 @@ Fun Fact: An exclamation point followed by a question mark is technically called
 
 `Go: http://www.byteback.org/typing-lessons/lesson15.html <http://www.byteback.org/typing-lessons/lesson15.html>`_
 
+Final Assessment
+----------------
+
+You have now completed all 15 lessons and are ready for the final test! However, you can still take the Advanced Lessons to learn more punctuation, symbols, and numbers, or use the Extra Exercises for more practice. The more you type, the more your speed and accuracy will improve! Additionally, you'll find more tests, exercises, lessons, and even games on the Resources page.
+
+Congratulations!
+
+`Go: http://www.byteback.org/typing-lessons/test.html <http://www.byteback.org/typing-lessons/test.html>`_
+
+Resource: College Keyboarding
+=============================
+
+Module 1
+--------
+
+The student will accurately key:
+
+* Home Row, Space Bar, Enter, I
+* E and N
+* Left Shift, H, T, Period
+* R, Right Shift, C, O
+* W, Comma, B, P
+* G, QUestion Mark, X, U
+* Q, M, V, Apostrophe
+* Z, Y, Quotation Mark, Tab
+
+Module 2
+--------
+
+The student will accurately key:
+
+* 1 and 8
+* 5 and 0
+* 2 and 7
+* 4 and 9
+* 3 and 6
+* $ and Hyphen, Number Expression
+* Pound (#) and / (forward slash)
+* Parenthesis and Backspace
+* Ampersand and Colon
+* Proofreaders' Marks
+* Additional Symbols
