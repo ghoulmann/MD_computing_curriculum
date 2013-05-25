@@ -20,6 +20,13 @@ Keyboarding
 
 The student will:
 
+
+* keep the backs of her hands parallel to the keyboard;
+* orient her arms to maintain index, middle and ring fingers on their home keys and have both pinky fingers reach the shift keys without bending your wrist sideways;
+* sit up straight;
+* have the top of the monitor at eye level;
+* position hands should be slightly lower than elbows;
+* keep wrists straight;
 * key the alphabetic and numeric keys by touch;
 * develop best practice keyboarding techniques;
 * key fluently, where fluency is defined as 25 words per minute;
