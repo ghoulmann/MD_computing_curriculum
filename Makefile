@@ -156,4 +156,4 @@ doctest:
 pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) build/pdf
 	@echo
-        @echo "Build finished. The PDF files are in _build/pdf."
+	@echo "Build finished. The PDF files are in build/pdf."

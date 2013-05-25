@@ -301,7 +301,7 @@ epub_copyright = u'2013, Rik Goldman'
 # regardless of the global pdf_compressed setting.
     
 pdf_documents = [ 
-    ('index', u'MyProject', u'My Project', u'Author Name'),
+    ('index', u'MD Computing Curriculum', u'MD Computing Curriculum', u'Rik Goldman'),
     ]
 
 # A comma-separated list of custom stylesheets. Example:
