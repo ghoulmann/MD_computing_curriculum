@@ -9,7 +9,7 @@ Welcome to Middle Division Computing Curriculum's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    objectives
    keying_lessons
