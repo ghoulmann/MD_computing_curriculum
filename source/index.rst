@@ -11,14 +11,15 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   preface
-   keying
-   keying_lessons
-   keying_links
-   computing
-   apps
-   programming
-   anchor
+    preface
+    keying
+    keying_lessons
+    keying_links
+    computing
+    apps
+    programming
+    anchor
+    ancillary   
 
 
 Indices and tables
