@@ -88,3 +88,5 @@ The student will:
 * identify system utilities;
 * identify productivity software.
 * List common components of an office suite.
+
+.. index:: computing, IT, hardware, software, operating systems, graphical user interface, user interface
