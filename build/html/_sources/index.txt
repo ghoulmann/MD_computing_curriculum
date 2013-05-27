@@ -19,6 +19,7 @@ Contents:
    apps
    programming
    anchor
+   ancillary   
 
 
 Indices and tables
