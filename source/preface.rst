@@ -4,8 +4,10 @@ Preface
 Problem
 =======
 
+
 Rationale
 =========
+
 
 Values
 ======

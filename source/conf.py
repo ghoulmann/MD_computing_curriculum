@@ -319,7 +319,7 @@ pdf_style_path = ['.', '_styles']
 # pdf_font_path = ['/usr/share/fonts', '/usr/share/texmf-dist/fonts/']
 
 # Language to be used for hyphenation support
-#pdf_language = "en_US"
+pdf_language = "en_US"
     
 # Mode for literal blocks wider than the frame. Can be
 # overflow, shrink or truncate
@@ -328,7 +328,7 @@ pdf_style_path = ['.', '_styles']
 # Section level that forces a break page.
 # For example: 1 means top-level sections start in a new page
 # 0 means disabled
-#pdf_break_level = 0
+pdf_break_level = 2
 
 # When a section starts in a new page, force it to be 'even', 'odd',
 # or just use 'any'
@@ -342,7 +342,7 @@ pdf_style_path = ['.', '_styles']
 #pdf_verbosity = 0
 
 # If false, no index is generated.
-#pdf_use_index = True
+pdf_use_index = True
 
 # If false, no modindex is generated.
 #pdf_use_modindex = True

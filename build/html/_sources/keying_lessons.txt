@@ -183,3 +183,5 @@ The student will accurately key:
 * Ampersand and Colon
 * Proofreaders' Marks
 * Additional Symbols
+
+.. index:: keyboarding, typing, lessons, keyboarding resources

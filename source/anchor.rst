@@ -20,3 +20,5 @@ Programming
 ===========
 
 *Super Scratch Adventures*
+
+.. index:: textbooks, anchor texts, resources
