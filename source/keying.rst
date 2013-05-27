@@ -158,3 +158,5 @@ The student will:
 * review and edit memos and letters; [redundant?]
 * review, edit, and format a report with tables and graphics;
 * demonstrate increased keying speed and accuracy.
+
+.. index:: keyboarding, typing, speed, accuracy

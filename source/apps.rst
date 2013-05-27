@@ -73,4 +73,6 @@ Polishing a Presentation
 Application Integration
 =======================
 
+
+.. index:: office suite, productivity software, productivity applications, software applications, word processing, spreadsheets, presentations, documents
 * Placeholder
