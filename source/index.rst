@@ -12,12 +12,13 @@ Contents:
    :maxdepth: 4
    
    preface
+   to_do
+   programming
    keying
    keying_lessons
    keying_links
    computing
    apps
-   programming
    anchor
    ancillary   
 
